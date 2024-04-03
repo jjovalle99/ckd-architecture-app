@@ -1,0 +1,2149 @@
+[
+    {
+        "service_name": "Amazon A2I",
+        "description": "Easily implement human review of ML predictions",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon API Gateway",
+        "description": "Build, deploy, and manage APIs",
+        "service_categories": [
+            "Networking & Content Delivery",
+            "Serverless"
+        ]
+    },
+    {
+        "service_name": "Amazon AppFlow",
+        "description": "No-code integration for SaaS apps and AWS services",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon AppStream 2.0",
+        "description": "Stream desktop applications securely to a browser",
+        "service_categories": [
+            "End User Computing"
+        ]
+    },
+    {
+        "service_name": "Amazon Athena",
+        "description": "Query data in Amazon S3 using SQL",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon Aurora",
+        "description": "High performance managed relational database engine",
+        "service_categories": [
+            "Database"
+        ]
+    },
+    {
+        "service_name": "Amazon Bedrock",
+        "description": "Access best-in-class foundation models to build generative AI applications",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Braket",
+        "description": "Accelerate quantum computing research",
+        "service_categories": [
+            "Quantum Computing"
+        ]
+    },
+    {
+        "service_name": "Amazon Chime",
+        "description": "Frustration-free meetings, video calls, and chat",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "Amazon Chime SDK",
+        "description": "Real-time messaging, audio, video, and screen sharing",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "Amazon Cloud Directory",
+        "description": "Store hundreds of millions of application-specific objects",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "Amazon CloudFront",
+        "description": "Global content delivery network",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "Amazon CloudSearch",
+        "description": "Managed search service",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon CloudWatch",
+        "description": "Monitor resources and applications",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "Amazon CodeCatalyst",
+        "description": "Unified software development service to develop and deliver on AWS",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "Amazon CodeGuru",
+        "description": "Find your most expensive lines of code",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon CodeWhisperer",
+        "description": "Build applications faster with the ML-powered coding companion",
+        "service_categories": [
+            "Developer Tools",
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Cognito",
+        "description": "Identity management for your apps",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "Amazon Comprehend",
+        "description": "Discover insights and relationships in text",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Comprehend Medical",
+        "description": "Detect and return useful information in unstructured clinical text",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Connect",
+        "description": "Omnichannel cloud contact center",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "Amazon Data Firehose",
+        "description": "Fully managed real-time streaming data delivery service",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon Data Lifecycle Manager",
+        "description": "Automate management of Amazon EBS snapshots and Amazon EBS-backed AMIs",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "Amazon DataZone",
+        "description": "Unlock data across organizational boundaries with built-in governance",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon Detective",
+        "description": "Investigate potential security issues",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "Amazon DevOps Guru",
+        "description": "Improve application availability with ML-powered cloud operations",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon DocumentDB",
+        "description": "Fully managed document database",
+        "service_categories": [
+            "Database"
+        ]
+    },
+    {
+        "service_name": "Amazon DynamoDB",
+        "description": "Managed NoSQL database",
+        "service_categories": [
+            "Database",
+            "Serverless"
+        ]
+    },
+    {
+        "service_name": "Amazon EBS",
+        "description": "Amazon EC2 block storage volumes",
+        "service_categories": [
+            "Storage"
+        ]
+    },
+    {
+        "service_name": "Amazon EC2",
+        "description": "Create and run virtual servers in the cloud",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "Amazon EC2 Image Builder",
+        "description": "Automate lifecycle management of \"golden\" server images",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "Amazon ECR",
+        "description": "Easily store, manage, and deploy container images",
+        "service_categories": [
+            "Containers"
+        ]
+    },
+    {
+        "service_name": "Amazon ECS",
+        "description": "Highly secure, reliable, and scalable way to run containers",
+        "service_categories": [
+            "Containers"
+        ]
+    },
+    {
+        "service_name": "Amazon EFS",
+        "description": "Fully managed file system for Amazon EC2",
+        "service_categories": [
+            "Storage"
+        ]
+    },
+    {
+        "service_name": "Amazon EKS",
+        "description": "Run Kubernetes on AWS without operating your own Kubernetes clusters",
+        "service_categories": [
+            "Containers"
+        ]
+    },
+    {
+        "service_name": "Amazon Elastic Inference",
+        "description": "Deep learning inference acceleration",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Elastic Transcoder",
+        "description": "Easy-to-use scalable media transcoding",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "Amazon ElastiCache",
+        "description": "In-memory caching service",
+        "service_categories": [
+            "Database"
+        ]
+    },
+    {
+        "service_name": "Amazon EMR",
+        "description": "Hosted Hadoop framework",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon EventBridge",
+        "description": "Serverless event bus for SaaS apps and AWS services",
+        "service_categories": [
+            "Application Integration",
+            "Serverless"
+        ]
+    },
+    {
+        "service_name": "Amazon FinSpace",
+        "description": "Store, catalog, prepare, and analyze financial industry data",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon Forecast",
+        "description": "Increase forecast accuracy using machine learning",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Fraud Detector",
+        "description": "Detect more online fraud faster",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon FSx",
+        "description": "Launch, run, and scale feature-rich and high-performing file systems",
+        "service_categories": [
+            "Storage"
+        ]
+    },
+    {
+        "service_name": "Amazon GameLift",
+        "description": "Simple, fast, cost-effective dedicated game server hosting",
+        "service_categories": [
+            "Game Development"
+        ]
+    },
+    {
+        "service_name": "Amazon GuardDuty",
+        "description": "Managed threat detection service",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "Amazon Honeycode",
+        "description": "Build mobile and web apps without programming",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "Amazon Inspector",
+        "description": "Automated and continual vulnerability management at scale",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "Amazon Interactive Video Service",
+        "description": "Build engaging live stream experiences",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "Amazon Kendra",
+        "description": "Reinvent enterprise search with ML",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Keyspaces (for Apache Cassandra)",
+        "description": "Managed Cassandra-compatible database",
+        "service_categories": [
+            "Database"
+        ]
+    },
+    {
+        "service_name": "Amazon Kinesis",
+        "description": "Analyze real-time video and data streams",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon Lex",
+        "description": "Build voice and text chatbots",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Lightsail",
+        "description": "Launch and manage virtual private servers",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "Amazon Location Service",
+        "description": "Securely and easily add location data to applications",
+        "service_categories": [
+            "Front-End Web & Mobile"
+        ]
+    },
+    {
+        "service_name": "Amazon Lookout for Equipment",
+        "description": "Detect abnormal equipment behavior by analyzing sensor data",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Lookout for Metrics",
+        "description": "Automatically detect anomalies in metrics and identify the root cause",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Lookout for Vision",
+        "description": "Spot product defects and automate quality inspection",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Lumberyard",
+        "description": "A free cross-platform 3D game engine (binaries no longer offered)",
+        "service_categories": [
+            "Game Development"
+        ]
+    },
+    {
+        "service_name": "Amazon Machine Learning",
+        "description": "Learn about Amazon machine learning services",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Macie",
+        "description": "Discover and protect your sensitive data at scale",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "Amazon Managed Blockchain",
+        "description": "Create and manage scalable blockchain networks",
+        "service_categories": [
+            "Blockchain"
+        ]
+    },
+    {
+        "service_name": "Amazon Managed Grafana",
+        "description": "Visualize and analyze your operational data at scale",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "Amazon Managed Service for Apache Flink",
+        "description": "Process and analyze streaming data using Apache Flink",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon Managed Service for Prometheus",
+        "description": "Highly available, secure, and managed monitoring for your containers",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "Amazon MemoryDB for Redis",
+        "description": "Redis-compatible, durable, in-memory database service",
+        "service_categories": [
+            "Database"
+        ]
+    },
+    {
+        "service_name": "Amazon Monitron",
+        "description": "Reduce unplanned equipment downtime with predictive maintenance and ML",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon MQ",
+        "description": "Managed message broker service",
+        "service_categories": [
+            "Application Integration"
+        ]
+    },
+    {
+        "service_name": "Amazon MSK",
+        "description": "Fully managed Apache Kafka service",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon MWAA",
+        "description": "Managed orchestration service for Apache Airflow",
+        "service_categories": [
+            "Application Integration"
+        ]
+    },
+    {
+        "service_name": "Amazon Neptune",
+        "description": "Fully managed graph database service",
+        "service_categories": [
+            "Database"
+        ]
+    },
+    {
+        "service_name": "Amazon Nimble Studio",
+        "description": "Accelerate content creation in the cloud",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "Amazon One Enterprise",
+        "description": "Palm-based authentication for secure building access",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "Amazon OpenSearch Service",
+        "description": "Deploy, operate, and scale OpenSearch clusters in the AWS Cloud",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon Personalize",
+        "description": "Build real-time recommendations into your applications",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Pinpoint",
+        "description": "Multichannel marketing communications",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "Amazon Pinpoint SMS",
+        "description": "Application-to-person SMS and voice messaging service",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "Amazon Polly",
+        "description": "Turn text into life-like speech",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Q",
+        "description": "Generative AI-powered assistants",
+        "service_categories": [
+            "AWS Management Console"
+        ]
+    },
+    {
+        "service_name": "Amazon QLDB",
+        "description": "Fully managed ledger database",
+        "service_categories": [
+            "Database"
+        ]
+    },
+    {
+        "service_name": "Amazon QuickSight",
+        "description": "Fast business analytics service",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon RDS",
+        "description": "Set up, operate, and scale a relational database in the cloud",
+        "service_categories": [
+            "Database"
+        ]
+    },
+    {
+        "service_name": "Amazon Redshift",
+        "description": "Fast, simple, cost-effective data warehouse service",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "Amazon Rekognition",
+        "description": "Analyze image and video",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Route 53",
+        "description": "Highly available and scalable Domain Name System (DNS) web service",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "Amazon Route 53 Application Recovery Controller",
+        "description": "Move traffic for application disaster recovery",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "Amazon S3",
+        "description": "Object storage built to retrieve any amount of data from anywhere",
+        "service_categories": [
+            "Serverless",
+            "Storage"
+        ]
+    },
+    {
+        "service_name": "Amazon S3 Glacier",
+        "description": "Low-cost archive storage in the AWS Cloud",
+        "service_categories": [
+            "Storage"
+        ]
+    },
+    {
+        "service_name": "Amazon SageMaker",
+        "description": "Build, train, and deploy machine learning models at scale",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Security Lake",
+        "description": "Automatically centralize your security data with a few clicks",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "Amazon SES",
+        "description": "High-scale inbound and outbound email",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "Amazon Silk",
+        "description": "Create a faster, more responsive mobile browsing experience",
+        "service_categories": [
+            "Front-End Web & Mobile"
+        ]
+    },
+    {
+        "service_name": "Amazon SNS",
+        "description": "Pub/sub, SMS, email, and mobile push notifications",
+        "service_categories": [
+            "Application Integration",
+            "Serverless"
+        ]
+    },
+    {
+        "service_name": "Amazon SQS",
+        "description": "Managed message queues",
+        "service_categories": [
+            "Application Integration",
+            "Serverless"
+        ]
+    },
+    {
+        "service_name": "Amazon SWF",
+        "description": "Build applications that coordinate work across distributed components",
+        "service_categories": [
+            "Application Integration"
+        ]
+    },
+    {
+        "service_name": "Amazon Textract",
+        "description": "Extract text and data from documents",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Timestream",
+        "description": "Fully managed time series database",
+        "service_categories": [
+            "Database"
+        ]
+    },
+    {
+        "service_name": "Amazon Transcribe",
+        "description": "Automatic speech recognition",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Translate",
+        "description": "Natural and fluent language translation",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Amazon Verified Permissions",
+        "description": "Permissions management and authorization for custom applications",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "Amazon VPC",
+        "description": "Isolated cloud resources",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "Amazon VPC Lattice",
+        "description": "Simplify service-to-service connectivity, security, and monitoring",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "Amazon WorkDocs",
+        "description": "Secure enterprise document storage and sharing",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "Amazon WorkMail",
+        "description": "Secure email and calendaring",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "Amazon WorkSpaces",
+        "description": "Virtual desktops in the cloud",
+        "service_categories": [
+            "End User Computing"
+        ]
+    },
+    {
+        "service_name": "Amazon WorkSpaces Core",
+        "description": "Virtual desktop infrastructure that works with third-party solutions",
+        "service_categories": [
+            "End User Computing"
+        ]
+    },
+    {
+        "service_name": "Amazon WorkSpaces Thin Client",
+        "description": "Affordable, easy-to-manage device to securely access virtual desktops",
+        "service_categories": [
+            "End User Computing"
+        ]
+    },
+    {
+        "service_name": "Amazon WorkSpaces Web",
+        "description": "Provide secure access to internal websites and SaaS applications",
+        "service_categories": [
+            "End User Computing"
+        ]
+    },
+    {
+        "service_name": "Apache MXNet on AWS",
+        "description": "Scalable, open-source deep learning framework",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "Auto Scaling",
+        "description": "Scale multiple resources to meet demand",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Account Management",
+        "description": "Manage your AWS accounts as a group",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Amplify",
+        "description": "Build, deploy, host, and manage scalable web and mobile apps",
+        "service_categories": [
+            "Front-End Web & Mobile"
+        ]
+    },
+    {
+        "service_name": "AWS Amplify (AWS Mobile SDK for Android)",
+        "description": "Build native Android applications powered by AWS",
+        "service_categories": [
+            "Front-End Web & Mobile"
+        ]
+    },
+    {
+        "service_name": "AWS Amplify iOS (AWS Mobile SDK for iOS)",
+        "description": "Build native iOS applications powered by AWS",
+        "service_categories": [
+            "Front-End Web & Mobile"
+        ]
+    },
+    {
+        "service_name": "AWS App Mesh",
+        "description": "Monitor and control microservices",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "AWS App Runner",
+        "description": "Production web applications at scale made easy for developers",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS App2Container",
+        "description": "Containerize and migrate existing applications",
+        "service_categories": [
+            "Containers"
+        ]
+    },
+    {
+        "service_name": "AWS AppConfig",
+        "description": "Quickly deploy application configurations to applications of any size",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS AppFabric",
+        "description": "Aggregate and analyze data across SaaS applications",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "AWS Application Composer",
+        "description": "Visually design and build serverless applications quickly",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS Application Cost Profiler",
+        "description": "Provides granular cost insights for your multi-tenant applications",
+        "service_categories": [
+            "Cloud Financial Management"
+        ]
+    },
+    {
+        "service_name": "AWS Application Discovery Service",
+        "description": "Discover on-premises applications to streamline migration",
+        "service_categories": [
+            "Migration & Transfer"
+        ]
+    },
+    {
+        "service_name": "AWS Application Migration Service",
+        "description": "Automate application migration and modernization",
+        "service_categories": [
+            "Migration & Transfer"
+        ]
+    },
+    {
+        "service_name": "AWS AppSync",
+        "description": "Accelerate app development with fully-managed, scalable GraphQL APIs",
+        "service_categories": [
+            "Front-End Web & Mobile",
+            "Serverless"
+        ]
+    },
+    {
+        "service_name": "AWS Artifact",
+        "description": "On-demand access to AWS compliance reports",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS Audit Manager",
+        "description": "Audit your AWS usage to simplify how you assess risk and compliance",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS B2B Data Interchange",
+        "description": "Enables automated exchange of EDI-based transactions",
+        "service_categories": [
+            "Application Integration"
+        ]
+    },
+    {
+        "service_name": "AWS Backup",
+        "description": "Centralized backup across AWS services",
+        "service_categories": [
+            "Storage"
+        ]
+    },
+    {
+        "service_name": "AWS Batch",
+        "description": "Run batch jobs at any scale",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS Billing and Cost Management",
+        "description": "Find features that help you pay your bills and optimize your costs",
+        "service_categories": [
+            "Cloud Financial Management"
+        ]
+    },
+    {
+        "service_name": "AWS Blockchain Templates",
+        "description": "Quickly create and deploy open-source blockchain frameworks on AWS",
+        "service_categories": [
+            "Blockchain"
+        ]
+    },
+    {
+        "service_name": "AWS Certificate Manager",
+        "description": "Provision, manage, and deploy SSL/TLS certificates",
+        "service_categories": [
+            "Cryptography & PKI"
+        ]
+    },
+    {
+        "service_name": "AWS Chatbot",
+        "description": "ChatOps for AWS",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Clean Rooms",
+        "description": "Collaborate and analyze collective datasets without sharing raw data",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "AWS CLI",
+        "description": "Command line interface tool to manage AWS services",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Cloud Control API",
+        "description": "Manage AWS and third-party cloud infrastructure with consistent APIs",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS Cloud Digital Interface SDK",
+        "description": "Migrate timing-critical uncompressed video workflows to the cloud",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "AWS Cloud Map",
+        "description": "Service discovery for cloud resources",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "AWS Cloud9",
+        "description": "Write, run, and debug code on a cloud IDE",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS CloudFormation",
+        "description": "Create and manage resources with templates",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS CloudHSM",
+        "description": "Hardware-based key storage for regulatory compliance",
+        "service_categories": [
+            "Cryptography & PKI"
+        ]
+    },
+    {
+        "service_name": "AWS CloudShell",
+        "description": "Command line access to AWS resources and tools directly from a browser",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS CloudTrail",
+        "description": "Track and monitor activities by users, roles, or AWS services",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS CodeArtifact",
+        "description": "Artifact management for software development",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS CodeBuild",
+        "description": "Build and test code",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS CodeCommit",
+        "description": "Store code in private Git repositories",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS CodeDeploy",
+        "description": "Automate code deployments",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS CodePipeline",
+        "description": "Release software using continuous delivery",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS CodeStar",
+        "description": "Develop and deploy AWS applications",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS Compute Optimizer",
+        "description": "Identify optimal AWS compute resources",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Config",
+        "description": "Track and evaluate configuration changes",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Console Mobile Application",
+        "description": "View and manage resources to support incident response while on the go",
+        "service_categories": [
+            "AWS Management Console",
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Control Tower",
+        "description": "Set up and govern a secure, compliant multi-account environment",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Crypto Tools",
+        "description": "Helping you do cryptography right, even without special expertise",
+        "service_categories": [
+            "Cryptography & PKI"
+        ]
+    },
+    {
+        "service_name": "AWS Cryptographic Services Overview",
+        "description": "Find crypto services to help protect your data",
+        "service_categories": [
+            "Cryptography & PKI"
+        ]
+    },
+    {
+        "service_name": "AWS Data Exchange",
+        "description": "Find, subscribe to, and use third-party data in the cloud",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "AWS Data Pipeline",
+        "description": "Orchestration service for periodic, data-driven workflows",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "AWS Database Migration Service",
+        "description": "Migrate databases with minimal downtime",
+        "service_categories": [
+            "Migration & Transfer"
+        ]
+    },
+    {
+        "service_name": "AWS DataSync",
+        "description": "Simple, fast, online data transfer",
+        "service_categories": [
+            "Migration & Transfer"
+        ]
+    },
+    {
+        "service_name": "AWS Deadline Cloud",
+        "description": "Simplified render management and scalable infrastructure for rendering projects",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "AWS Deep Learning AMI",
+        "description": "Deep learning on Amazon EC2",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "AWS Deep Learning Containers",
+        "description": "Docker images for deep learning",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "AWS DeepComposer",
+        "description": "ML enabled musical keyboard",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "AWS DeepRacer",
+        "description": "Autonomous 1/18th scale race car, driven by ML",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "AWS Device Farm",
+        "description": "Test Android, iOS, and web apps on real devices in the AWS Cloud",
+        "service_categories": [
+            "Front-End Web & Mobile"
+        ]
+    },
+    {
+        "service_name": "AWS Diagnostic Tools",
+        "description": "Diagnostic tools for partners in the Partner-Led Support program",
+        "service_categories": [
+            "General Reference"
+        ]
+    },
+    {
+        "service_name": "AWS Direct Connect",
+        "description": "Dedicated network connection to AWS",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "AWS Directory Service",
+        "description": "Set up and run Microsoft Active Directory with AWS services",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS Elastic Beanstalk",
+        "description": "Run and manage web apps",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS Elastic Disaster Recovery",
+        "description": "Scalable, cost-effective application recovery to AWS",
+        "service_categories": [
+            "Storage"
+        ]
+    },
+    {
+        "service_name": "AWS Elemental MediaConnect",
+        "description": "Reliable and secure live video transport",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "AWS Elemental MediaConvert",
+        "description": "Convert file-based video content",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "AWS Elemental MediaLive",
+        "description": "Convert live video content",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "AWS Elemental MediaPackage",
+        "description": "Video origination and packaging",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "AWS Elemental MediaStore",
+        "description": "Store and deliver video assets for live streaming media workflows",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "AWS Elemental MediaTailor",
+        "description": "Video personalization and monetization",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "AWS Elemental On-Premises",
+        "description": "Encode and package video assets with on-premises software",
+        "service_categories": [
+            "Media Services"
+        ]
+    },
+    {
+        "service_name": "AWS End-of-Support Migration Program (EMP) for Windows Server",
+        "description": "Migrate legacy apps to AWS supported versions without code refactoring",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS Entity Resolution",
+        "description": "Link records stored across multiple applications, channels, and data stores",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "AWS Fargate",
+        "description": "Serverless compute for containers",
+        "service_categories": [
+            "Serverless"
+        ]
+    },
+    {
+        "service_name": "AWS Fault Injection Service",
+        "description": "Improve resiliency and performance with controlled experiments",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS Firewall Manager",
+        "description": "Deploy network security across your VPCs with just a few clicks",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS GameKit",
+        "description": "Build game backend services with AWS while working in a game engine",
+        "service_categories": [
+            "Game Development"
+        ]
+    },
+    {
+        "service_name": "AWS Global Accelerator",
+        "description": "Improve global application availability and performance",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "AWS Glossary",
+        "description": "Find definitions for AWS terms",
+        "service_categories": [
+            "General Reference"
+        ]
+    },
+    {
+        "service_name": "AWS Glue",
+        "description": "Simple, scalable, and serverless data integration",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "AWS GovCloud (US)",
+        "description": "Move sensitive workloads into the cloud",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS Ground Station",
+        "description": "Fully managed ground station as a service",
+        "service_categories": [
+            "Satellite"
+        ]
+    },
+    {
+        "service_name": "AWS Health",
+        "description": "Find information about events that can affect your AWS resources",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS HealthImaging",
+        "description": "Manage medical imaging data",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "AWS HealthLake",
+        "description": "Securely store, transform, query, and analyze health data in minutes",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "AWS HealthOmics",
+        "description": "Transform omics data into insights",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "AWS IAM Identity Center",
+        "description": "Manage single sign-on access to AWS accounts and apps",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS Identity and Access Management",
+        "description": "Securely manage access to services and resources",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS Incident Detection and Response",
+        "description": "Proactive monitoring and incident management for production workloads",
+        "service_categories": [
+            "Customer Enablement Services"
+        ]
+    },
+    {
+        "service_name": "AWS IoT 1-Click",
+        "description": "One click creation of an AWS Lambda trigger",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT Analytics",
+        "description": "Analytics for IoT devices",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT Core",
+        "description": "Connect devices to the cloud",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT Device Defender",
+        "description": "Security management for IoT devices",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT Device Management",
+        "description": "Onboard, organize, and remotely manage IoT devices",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT Events",
+        "description": "IoT event detection and response",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT ExpressLink",
+        "description": "Quickly and easily develop secure IoT devices",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT FleetWise",
+        "description": "Unlock the value of vehicle data",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT Greengrass",
+        "description": "Local compute, messaging, and sync for devices",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT SiteWise",
+        "description": "IoT data collector and interpreter",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT TwinMaker",
+        "description": "Optimize operations by creating digital twins of real-world systems",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IoT Wireless",
+        "description": "Secure bi-directional communication for LoRaWAN and Sidewalk end devices",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "AWS IQ",
+        "description": "Find AWS Certified third-party experts for on-demand project work",
+        "service_categories": [
+            "Customer Enablement Services"
+        ]
+    },
+    {
+        "service_name": "AWS KMS",
+        "description": "Managed creation and control of encryption keys",
+        "service_categories": [
+            "Cryptography & PKI"
+        ]
+    },
+    {
+        "service_name": "AWS Lake Formation",
+        "description": "Build a secure data lake in days",
+        "service_categories": [
+            "Analytics"
+        ]
+    },
+    {
+        "service_name": "AWS Lambda",
+        "description": "Run code without thinking about servers",
+        "service_categories": [
+            "Compute",
+            "Serverless"
+        ]
+    },
+    {
+        "service_name": "AWS Launch Wizard",
+        "description": "Easily size, configure, and deploy third-party applications on AWS",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS License Manager",
+        "description": "Track and manage software licenses across multiple AWS Regions",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Local Zones",
+        "description": "Run latency sensitive applications closer to end users",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS Mainframe Modernization",
+        "description": "Migrate, modernize, operate, and run mainframe workloads",
+        "service_categories": [
+            "Migration & Transfer"
+        ]
+    },
+    {
+        "service_name": "AWS Managed Services",
+        "description": "Infrastructure operations management for AWS",
+        "service_categories": [
+            "Customer Enablement Services"
+        ]
+    },
+    {
+        "service_name": "AWS Management Console",
+        "description": "Web-based user interface comprising multiple AWS service consoles",
+        "service_categories": [
+            "AWS Management Console",
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Marketplace",
+        "description": "Buy or sell software that runs on AWS",
+        "service_categories": [
+            "Marketplace"
+        ]
+    },
+    {
+        "service_name": "AWS Microservice Extractor for .NET",
+        "description": "Reduce time and effort to convert large applications to microservices",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS Migration Hub",
+        "description": "Track migrations from a single place",
+        "service_categories": [
+            "Migration & Transfer"
+        ]
+    },
+    {
+        "service_name": "AWS Mobile SDK for Unity",
+        "description": "Find .NET classes that enable games written with Unity to utilize AWS",
+        "service_categories": [
+            "Front-End Web & Mobile"
+        ]
+    },
+    {
+        "service_name": "AWS Network Firewall",
+        "description": "Deploy network security across your Amazon VPCs with just a few clicks",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS OpsWorks",
+        "description": "Automate operations with Chef and Puppet",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Organizations",
+        "description": "Central governance and management across AWS accounts",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Outposts",
+        "description": "Run AWS infrastructure on-premises",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS Panorama",
+        "description": "Improve your operations with computer vision at the edge",
+        "service_categories": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "service_name": "AWS ParallelCluster",
+        "description": "Deploy and manage high performance computing clusters in the AWS Cloud",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS Partner Central",
+        "description": "Manage your AWS Partner Network (APN) membership and access AWS Partner resources",
+        "service_categories": [
+            "Partner Central"
+        ]
+    },
+    {
+        "service_name": "AWS Payment Cryptography",
+        "description": "Fully managed payment cryptography service",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS PKI Services Overview",
+        "description": "Find multiple services to help protect your data at rest or in transit",
+        "service_categories": [
+            "Cryptography & PKI"
+        ]
+    },
+    {
+        "service_name": "AWS Pricing Calculator",
+        "description": "Create cost estimates that match your AWS use case",
+        "service_categories": [
+            "Cloud Financial Management"
+        ]
+    },
+    {
+        "service_name": "AWS Private 5G",
+        "description": "Easily deploy, manage, and scale a private cellular network",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "AWS Private Certificate Authority",
+        "description": "Create private certificates to identify resources and protect data",
+        "service_categories": [
+            "Cryptography & PKI"
+        ]
+    },
+    {
+        "service_name": "AWS Professional Services",
+        "description": "Get help executing your enterprise cloud computing initiatives",
+        "service_categories": [
+            "Customer Enablement Services"
+        ]
+    },
+    {
+        "service_name": "AWS Proton",
+        "description": "Automate management for container and serverless deployments",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS re:Post Private",
+        "description": "Build an organization-specific knowledge resource for your cloud community",
+        "service_categories": [
+            "Customer Enablement Services"
+        ]
+    },
+    {
+        "service_name": "AWS Resilience Hub",
+        "description": "Prepare and protect your applications from disruptions",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Resource Access Manager",
+        "description": "Simple, secure service to share AWS resources",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS Resource Explorer",
+        "description": "Search for and discover relevant resources across AWS",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Resource Groups",
+        "description": "See your resources across the AWS Regions in your AWS account",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS RoboMaker",
+        "description": "Develop, test, and deploy robotics applications",
+        "service_categories": [
+            "Robotics"
+        ]
+    },
+    {
+        "service_name": "AWS SAM",
+        "description": "Build serverless applications on AWS",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS Schema Conversion Tool",
+        "description": "Convert source schema and most code to target-compatible format",
+        "service_categories": [
+            "Migration & Transfer"
+        ]
+    },
+    {
+        "service_name": "AWS Secrets Manager",
+        "description": "Rotate, manage, and retrieve secrets",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS Security Credentials",
+        "description": "Learn how to specify AWS security credentials",
+        "service_categories": [
+            "General Reference"
+        ]
+    },
+    {
+        "service_name": "AWS Security Hub",
+        "description": "Unified security and compliance center",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS Serverless Application Repository",
+        "description": "Discover, deploy, and publish serverless applications",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS Service Catalog",
+        "description": "Create and use standardized products",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Service Endpoints",
+        "description": "Connect programmatically to an AWS service using endpoints",
+        "service_categories": [
+            "General Reference"
+        ]
+    },
+    {
+        "service_name": "AWS Service Management Connector",
+        "description": "Provision, manage, and operate AWS resources within ITSM tools",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Shield",
+        "description": "DDoS protection",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS Sign-In",
+        "description": "Find help signing in and out of your account",
+        "service_categories": [
+            "AWS Management Console"
+        ]
+    },
+    {
+        "service_name": "AWS Signer",
+        "description": "Validate AWS Lambda and IoT device code against a digital signature",
+        "service_categories": [
+            "Cryptography & PKI"
+        ]
+    },
+    {
+        "service_name": "AWS SimSpace Weaver",
+        "description": "Build and run large-scale spatial simulations in the AWS Cloud",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS Snow Family",
+        "description": "Move petabytes of data to and from AWS, or process data at the edge",
+        "service_categories": [
+            "Storage"
+        ]
+    },
+    {
+        "service_name": "AWS Step Functions",
+        "description": "Coordination for distributed applications",
+        "service_categories": [
+            "Application Integration",
+            "Serverless"
+        ]
+    },
+    {
+        "service_name": "AWS Storage Gateway",
+        "description": "Hybrid storage integration",
+        "service_categories": [
+            "Storage"
+        ]
+    },
+    {
+        "service_name": "AWS Supply Chain",
+        "description": "Reduce risks and lower costs with ML-powered supply chain application",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "AWS Support",
+        "description": "Learn about the components and features that AWS Support provides",
+        "service_categories": [
+            "General Reference"
+        ]
+    },
+    {
+        "service_name": "AWS Systems Manager",
+        "description": "Gain operational insights and take action",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Telco Network Builder",
+        "description": "Automate the deployment and management of your telco networks on AWS",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Toolkit for Azure DevOps",
+        "description": "Extension for hosted and on-premises Microsoft Azure DevOps",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS Toolkit for JetBrains",
+        "description": "Open-source plugin for the integrated development environments (IDEs) for JetBrains",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS Toolkit for Visual Studio Code",
+        "description": "Open-source extension for the Visual Studio Code editor",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "AWS Tools for PowerShell",
+        "description": "Script operations on AWS resources from the PowerShell command line",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Training and Certification",
+        "description": "Explore AWS learning opportunities",
+        "service_categories": [
+            "Customer Enablement Services"
+        ]
+    },
+    {
+        "service_name": "AWS Transfer Family",
+        "description": "Fully managed SFTP, FTPS, and FTP service",
+        "service_categories": [
+            "Migration & Transfer"
+        ]
+    },
+    {
+        "service_name": "AWS Trusted Advisor",
+        "description": "Optimize performance and security",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS User Notifications",
+        "description": "Unifies the notification experience across AWS services",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Verified Access",
+        "description": "Provide secure access to corporate applications without a VPN",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "AWS VPN",
+        "description": "Securely access your network resources",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "AWS WAF",
+        "description": "Filter malicious web traffic",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "AWS Wavelength",
+        "description": "Deliver ultra-low latency applications for 5G devices",
+        "service_categories": [
+            "Compute"
+        ]
+    },
+    {
+        "service_name": "AWS Well-Architected Tool",
+        "description": "Review and improve your workloads",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "AWS Wickr",
+        "description": "Protect enterprise communications with end-to-end encryption",
+        "service_categories": [
+            "Business Applications"
+        ]
+    },
+    {
+        "service_name": "AWS X-Ray",
+        "description": "Analyze and debug your applications",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "Elastic Load Balancing",
+        "description": "Distribute incoming traffic across multiple targets",
+        "service_categories": [
+            "Networking & Content Delivery"
+        ]
+    },
+    {
+        "service_name": "FreeRTOS",
+        "description": "Real-time operating system for microcontrollers",
+        "service_categories": [
+            "Internet of Things (IoT)"
+        ]
+    },
+    {
+        "service_name": "NICE DCV",
+        "description": "Connect securely to graphic-intensive 3D apps on remote servers",
+        "service_categories": [
+            "End User Computing"
+        ]
+    },
+    {
+        "service_name": "Porting Assistant for .NET",
+        "description": "Port Microsoft .NET Framework applications to .NET Core",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "Red Hat OpenShift Service on AWS",
+        "description": "Managed OpenShift in the cloud",
+        "service_categories": [
+            "Containers"
+        ]
+    },
+    {
+        "service_name": "Research and Engineering Studio on AWS",
+        "description": "Create and manage portals for research collaboration",
+        "service_categories": [
+            "Compute HPC"
+        ]
+    },
+    {
+        "service_name": "Savings Plans",
+        "description": "Save on compute usage with flexible pricing",
+        "service_categories": [
+            "Cloud Financial Management"
+        ]
+    },
+    {
+        "service_name": "SDK for .NET",
+        "description": "Develop applications with .NET-specific APIs and libraries",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for C++",
+        "description": "Develop applications with C++-specific APIs",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for Go",
+        "description": "Develop applications with Go-specific APIs and libraries",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for Java",
+        "description": "Develop applications with Java-specific APIs and libraries",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for JavaScript",
+        "description": "Develop applications with JavaScript-specific APIs and libraries",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for Kotlin",
+        "description": "Develop applications with Kotlin-specific APIs and libraries",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for PHP",
+        "description": "Develop applications with PHP-specific APIs and libraries",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for Python (Boto3)",
+        "description": "Develop applications with Python-specific APIs and libraries",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for Ruby",
+        "description": "Develop applications with Ruby-specific APIs and libraries",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for Rust",
+        "description": "Develop applications with Rust-specific APIs and libraries",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for SAP ABAP",
+        "description": "Develop applications with a client library of modules",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDK for Swift",
+        "description": "Develop applications with Swift-specific APIs and libraries",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "SDKs and Tools Reference Guide",
+        "description": "Find information applicable to multiple SDKs and tools",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "Security Documentation",
+        "description": "Security documentation by category",
+        "service_categories": [
+            "Security, Identity, & Compliance"
+        ]
+    },
+    {
+        "service_name": "Serverless",
+        "description": "Introduction to core serverless concepts and services in the AWS Cloud",
+        "service_categories": [
+            "Serverless"
+        ]
+    },
+    {
+        "service_name": "Service Quotas",
+        "description": "View and manage your AWS workload quotas easily and at scale",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "Service Quotas reference",
+        "description": "View the AWS workload quotas for AWS services",
+        "service_categories": [
+            "General Reference"
+        ]
+    },
+    {
+        "service_name": "Tag Editor",
+        "description": "Add, edit, or delete tags on multiple AWS resources",
+        "service_categories": [
+            "Management & Governance"
+        ]
+    },
+    {
+        "service_name": "Tagging AWS Resources",
+        "description": "Assign metadata to your AWS resources in the form of tags",
+        "service_categories": [
+            "General Reference"
+        ]
+    },
+    {
+        "service_name": "Toolkit for .NET Refactoring",
+        "description": "Reduce time and effort to refactor legacy .NET apps for AWS Cloud",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "Toolkit for Visual Studio",
+        "description": "Plugin for the Visual Studio integrated development environment (IDE)",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    },
+    {
+        "service_name": "Tools for PowerShell",
+        "description": "PowerShell modules built on the functionality exposed by the AWS SDK for .NET",
+        "service_categories": [
+            "Developer Tools"
+        ]
+    }
+]
