@@ -1,0 +1,2567 @@
+[
+    {
+        "name": "Containers on AWS",
+        "category": "WHITEPAPER",
+        "description": "Deploy and manage containers at scale on AWS.",
+        "date": "March 2024",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/containers-on-aws/containers-on-aws.pdf",
+        "year": 2024,
+        "month": 3
+    },
+    {
+        "name": "Overview of Amazon Web Services",
+        "category": "WHITEPAPER",
+        "description": "Overview of all AWS services.",
+        "date": "March 2024",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/aws-overview.pdf?did=wp_card&trk=wp_card",
+        "year": 2024,
+        "month": 3
+    },
+    {
+        "name": "Running Containerized Microservices on AWS",
+        "category": "WHITEPAPER",
+        "description": "Guidance for application lifecycle management, security, and architectural designs for container-based applications on AWS.",
+        "date": "February 2024",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/running-containerized-microservices/running-containerized-microservices.pdf",
+        "year": 2024,
+        "month": 2
+    },
+    {
+        "name": "The Security Design of the AWS Nitro System",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "February 2024",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/security-design-of-aws-nitro-system/security-design-of-aws-nitro-system.pdf?did=wp_card&trk=wp_card#security-design-of-aws-nitro-system",
+        "year": 2024,
+        "month": 2
+    },
+    {
+        "name": "Migration Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "Best practices for how to migrate to the AWS Cloud.",
+        "date": "January 2024",
+        "pdf_link": "https://docs.aws.amazon.com/wellarchitected/latest/migration-lens/migration-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2024,
+        "month": 1
+    },
+    {
+        "name": "Designing Next Generation Vehicle Communication…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper outlines the best practices for implementing an extensible, scalable, and resilient communication architecture for the next generation of vehicles on Amazon Web Service (AWS).",
+        "date": "January 2024",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/designing-next-generation-vehicle-communication-aws-iot/designing-next-generation-vehicle-communication-aws-iot.pdf?did=wp_card&trk=wp_card",
+        "year": 2024,
+        "month": 1
+    },
+    {
+        "name": "Connected Mobility Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "Best practices for integrating technology into transportation systems and enhancing the overall mobility experience.",
+        "date": "January 2024",
+        "pdf_link": "https://docs.aws.amazon.com/wellarchitected/latest/connected-mobility-lens/connected-mobility-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2024,
+        "month": 1
+    },
+    {
+        "name": "Data Analytics Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/analytics-lens/analytics-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 12
+    },
+    {
+        "name": "AWS Cloud Adoption Framework: Security…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-caf-security-perspective/aws-caf-security-perspective.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 12
+    },
+    {
+        "name": "IoT Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/iot-lens/wellarchitected-iot-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 11
+    },
+    {
+        "name": "Optimizing PostgreSQL Running on Amazon EC2…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/optimizing-postgresql-on-ec2-using-ebs/optimizing-postgresql-on-ec2-using-ebs.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 10
+    },
+    {
+        "name": "Amazon EC2 Overview and Networking Introduction…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/ec2-networking-for-telecom/ec2-networking-for-telecom.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 10
+    },
+    {
+        "name": "DevOps Guidance",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2023",
+        "pdf_link": "https://docs.aws.amazon.com/wellarchitected/latest/devops-guidance/devops-guidance.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 9
+    },
+    {
+        "name": "Reducing the Scope of Impact with Cell-Based…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2023",
+        "pdf_link": "https://docs.aws.amazon.com/wellarchitected/latest/reducing-scope-of-impact-with-cell-based-architecture/reducing-scope-of-impact-with-cell-based-architecture.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 9
+    },
+    {
+        "name": "Autosphere iRPA on AWS for Telecom Enterprise…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/autosphere-irpa-on-aws-for-telecom-enterprise-automation/autosphere-irpa-on-aws-for-telecom-enterprise-automation.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 9
+    },
+    {
+        "name": "Government Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/government-lens/government-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 8
+    },
+    {
+        "name": "AWS Best Practices for DDoS Resiliency",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2023",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-best-practices-ddos-resiliency/aws-best-practices-ddos-resiliency.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2023,
+        "month": 8
+    },
+    {
+        "name": "Hybrid Architectures to Address Personal Data…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/hybrid-architectures-to-address-personal-data-processing-requirements/hybrid-architectures-to-address-personal-data-processing-requirements.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 8
+    },
+    {
+        "name": "Implementing Microservices on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2023",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/microservices-on-aws/microservices-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 7
+    },
+    {
+        "name": "Migrating Oracle E-Business Suite on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/migrating-oracle-e-business-suite/migrating-oracle-e-business-suite.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 7
+    },
+    {
+        "name": "Practicing Continuous Integration and…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/practicing-continuous-integration-continuous-delivery/practicing-continuous-integration-continuous-delivery.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 7
+    },
+    {
+        "name": "Migrating Magento Open Source or Adobe…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/migrating-magento-open-source-adobe-commerce-to-aws/migrating-magento-open-source-adobe-commerce-to-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 7
+    },
+    {
+        "name": "Overview of Oracle E-Business Suite on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/overview-oracle-e-business-suite/overview-oracle-e-business-suite.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 7
+    },
+    {
+        "name": "Hybrid Connectivity",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/hybrid-connectivity/hybrid-connectivity.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 7
+    },
+    {
+        "name": "Machine Learning Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/machine-learning-lens/wellarchitected-machine-learning-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 7
+    },
+    {
+        "name": "Applying Security Practices to a Network Workload…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/applying-security-practices-to-network-workload-for-csps/applying-security-practices-to-network-workload-for-csps.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 6
+    },
+    {
+        "name": "VMware vSphere Backups to Amazon S3",
+        "category": "WHITEPAPER",
+        "description": "This paper introduces the features, AWS services, and architectural components relevant when you back up an on-premises virtualization environment based on VMware vSphere to Amazon S3.",
+        "date": "June 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/vmware-vsphere-backups-to-amazon-s3/vmware-vsphere-backups-to-amazon-s3.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 6
+    },
+    {
+        "name": "Building a Data Perimeter on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2023",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/building-a-data-perimeter-on-aws/building-a-data-perimeter-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 6
+    },
+    {
+        "name": "AWS Cloud Adoption Framework for Artificial…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper describes a mental model for organizations that strive to generate business value from AI and ML.",
+        "date": "May 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-caf-for-ai/aws-caf-for-ai.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 5
+    },
+    {
+        "name": "SageMaker Studio Administration Best…",
+        "category": "WHITEPAPER",
+        "description": "In this whitepaper, we discuss best practices for subjects including operating model, domain management, identity management, permissions management, network management, logging, monitoring, and customization.",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/sagemaker-studio-admin-best-practices/sagemaker-studio-admin-best-practices.pdf?did=wp_card&trk=wp_card#sagemaker-studio-admin-best-practices",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "Reliability Pillar – AWS Well-Architected…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/reliability-pillar/wellarchitected-reliability-pillar.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "Operational Excellence Pillar – AWS…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/operational-excellence-pillar/wellarchitected-operational-excellence-pillar.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "Performance Efficiency Pillar – AWS…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/performance-efficiency-pillar/wellarchitected-performance-efficiency-pillar.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "Cost Optimization Pillar – AWS Well-Architected…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/cost-optimization-pillar/wellarchitected-cost-optimization-pillar.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "AWS Well-Architected Framework",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/framework/wellarchitected-framework.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "Security Pillar – AWS Well-Architected Framework",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "Sustainability Pillar – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/sustainability-pillar/wellarchitected-sustainability-pillar.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "Introduction to DevOps on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/introduction-devops-aws/introduction-devops-aws.pdf?did=wp_card&trk=wp_card#introduction-to-devops",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "Amazon Virtual Private Cloud Network…",
+        "category": "WHITEPAPER",
+        "description": "Describes several common network connectivity options for integrating remote customer networks with Amazon VPC and connecting multiple Amazon VPCs into a contiguous virtual network.",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-vpc-connectivity-options.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "Introduction to AWS Security",
+        "category": "WHITEPAPER",
+        "description": "An introduction to security—including controls, products, and features—on AWS.",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/introduction-aws-security.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "The DigitalRoute Usage Engine Private Edition on…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/digitalroute-usage-engine-private-edition-on-aws/digitalroute-usage-engine-private-edition-on-aws.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "SaaS Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/saas-lens/wellarchitected-saas-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 4
+    },
+    {
+        "name": "Best Practices for Tagging AWS Resources",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2023",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/tagging-best-practices/tagging-best-practices.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 3
+    },
+    {
+        "name": "Organizing Your AWS Environment Using…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2023",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 3
+    },
+    {
+        "name": "Automating PeopleSoft Environments in the AWS…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper describes an approach for automating the creation of Oracle PeopleSoft environments in the AWS Cloud.",
+        "date": "March 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/automating-peoplesoft-environments/automating-peoplesoft-environments.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 3
+    },
+    {
+        "name": "Cost Modeling Data Lakes for Beginners",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/cost-modeling-data-lakes/cost-modeling-data-lakes.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 3
+    },
+    {
+        "name": "How AWS Pricing Works",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper provides an overview of how AWS pricing works across some of the most widely used services.",
+        "date": "February 2023",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/how-aws-pricing-works.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 2
+    },
+    {
+        "name": "AWS Cloud Adoption Framework: People…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "January 2023",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-caf-people-perspective/aws-caf-people-perspective.pdf?did=wp_card&trk=wp_card#aws-caf-people-perspective",
+        "year": 2023,
+        "month": 1
+    },
+    {
+        "name": "AWS Security Incident Response Guide",
+        "category": "TECHNICAL GUIDE",
+        "description": "Overview of the fundamentals of responding to security incidents in the AWS Cloud.",
+        "date": "December 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 12
+    },
+    {
+        "name": "Security Overview of AWS Lambda",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/security-overview-aws-lambda/security-overview-aws-lambda.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 12
+    },
+    {
+        "name": "AWS Multi-Region Fundamentals",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-multi-region-fundamentals/aws-multi-region-fundamentals.pdf?did=wp_card&trk=wp_card#aws-multi-region-fundamentals",
+        "year": 2022,
+        "month": 12
+    },
+    {
+        "name": "Open Radio Access Network Architecture on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/open-radio-access-network-architecture-on-aws/open-radio-access-network-architecture-on-aws.pdf?did=wp_card&trk=wp_card#open-radio-access-network-architecture-on-aws",
+        "year": 2022,
+        "month": 12
+    },
+    {
+        "name": "Hybrid Cloud DNS Options for Amazon VPC",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/hybrid-cloud-dns-options-for-vpc/hybrid-cloud-dns-options-for-vpc.pdf?did=wp_card&trk=wp_card#hybrid-cloud-dns-options-for-vpc",
+        "year": 2022,
+        "month": 12
+    },
+    {
+        "name": "Access Amazon WorkSpaces with Common Access…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/access-workspaces-with-access-cards/access-workspaces-with-access-cards.pdf?did=wp_card&trk=wp_card#access-workspaces-with-access-cards",
+        "year": 2022,
+        "month": 11
+    },
+    {
+        "name": "Security Overview of Amazon API Gateway",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/security-overview-amazon-api-gateway/security-overview-amazon-api-gateway.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 11
+    },
+    {
+        "name": "Healthcare Industry Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/healthcare-industry-lens/healthcare-industry-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 11
+    },
+    {
+        "name": "Device Manufacturing and Provisioning with X.509…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/device-manufacturing-provisioning/device-manufacturing-provisioning.pdf?did=wp_card&trk=wp_card#device-manufacturing-provisioning",
+        "year": 2022,
+        "month": 11
+    },
+    {
+        "name": "AWS Fault Isolation Boundaries",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-fault-isolation-boundaries/aws-fault-isolation-boundaries.pdf?did=wp_card&trk=wp_card#abstract-and-introduction",
+        "year": 2022,
+        "month": 11
+    },
+    {
+        "name": "Disaster Recovery of On-Premises Applications to…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-of-on-premises-applications-to-aws/disaster-recovery-of-on-premises-applications-to-aws.pdf?did=wp_card&trk=wp_card#disaster-recovery-of-on-premises-applications-to-aws",
+        "year": 2022,
+        "month": 11
+    },
+    {
+        "name": "AWS Cloud Adoption Framework: Operations…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-caf-operations-perspective/aws-caf-operations-perspective.pdf?did=wp_card&trk=wp_card#aws-caf-operations-perspective",
+        "year": 2022,
+        "month": 11
+    },
+    {
+        "name": "AWS Direct Connect for Amazon Connect",
+        "category": "WHITEPAPER",
+        "description": "Many contact centers and security architects want to use Amazon Connect in conjunction with AWS Direct Connect. This whitepaper outlines best practices, architecture considerations, and technical requirements for using these services together.",
+        "date": "November 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-direct-connect-for-amazon-connect/aws-direct-connect-for-amazon-connect.pdf?did=wp_card&trk=wp_card#aws-direct-connect-for-amazon-connect",
+        "year": 2022,
+        "month": 11
+    },
+    {
+        "name": "ETSI NFVO Compliant Orchestration in the…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/ETSI-NFVO-compliant-orchestration-in-kubernetes/ETSI-NFVO-compliant-orchestration-in-kubernetes.pdf?did=wp_card&trk=wp_card#ETSI-NFVO-compliant-orchestration-in-kubernetes",
+        "year": 2022,
+        "month": 10
+    },
+    {
+        "name": "Container Build Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/container-build-lens/container-build-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 10
+    },
+    {
+        "name": "Deploying Oracle SOA Suite 12c on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/deploying-oracle-soa-suite-12c/deploying-oracle-soa-suite-12c.pdf?did=wp_card&trk=wp_card#deploying-oracle-soa-suite-12c",
+        "year": 2022,
+        "month": 10
+    },
+    {
+        "name": "Best Practices for Deploying SAS Server on…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/best-practices-for-deploying-sas-server/best-practices-for-deploying-sas-server.pdf?did=wp_card&trk=wp_card#best-practices-for-deploying-sas-server",
+        "year": 2022,
+        "month": 10
+    },
+    {
+        "name": "SWIFT Customer Security Controls Framework…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/swift-customer-security-controls-framework-2021/swift-customer-security-controls-framework-2021.pdf?did=wp_card&trk=wp_card#swift-customer-security-controls-framework-2021",
+        "year": 2022,
+        "month": 10
+    },
+    {
+        "name": "Establishing Your Cloud Foundation on AWS",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper introduces a guided path approach to help customers build and evolve their AWS Cloud environment based on a consolidated set of definitions, scenarios, guidance, and automation. The approach includes people, process, and technology considerations of establishing an AWS Cloud environment.",
+        "date": "September 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/establishing-your-cloud-foundation-on-aws/establishing-your-cloud-foundation-on-aws.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2022,
+        "month": 9
+    },
+    {
+        "name": "Demand Forecasting",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper provides best practices, architectural patterns, technologies, and recommendations about demand forecasting on AWS. It addresses a wide array of readers, including technical professionals, non-technical professionals, and organizations with or without science teams.",
+        "date": "September 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/demand-forecasting/demand-forecasting.pdf?did=wp_card&trk=wp_card#demand-forecasting",
+        "year": 2022,
+        "month": 9
+    },
+    {
+        "name": "Architecting for HIPAA Security and Compliance…",
+        "category": "WHITEPAPER",
+        "description": "This paper outlines how customers can use AWS to run sensitive workloads regulated under HIPAA.",
+        "date": "September 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/architecting-hipaa-security-and-compliance-on-aws/architecting-hipaa-security-and-compliance-on-aws.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2022,
+        "month": 9
+    },
+    {
+        "name": "How Customers Can Work with AWS and Our APN…",
+        "category": "WHITEPAPER",
+        "description": "This paper outlines how customers can work with AWS Partner Network (APN) partner organizations to help get the most out of the AWS Cloud.",
+        "date": "September 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/how-customers-can-work-with-aws-and-our-apn-partners/how-customers-can-work-with-aws-and-our-apn-partners.pdf?did=wp_card&trk=wp_card#how-customers-can-work-with-aws-and-our-apn-partners",
+        "year": 2022,
+        "month": 9
+    },
+    {
+        "name": "Telco Edge Workloads on Red Hat OpenShift -…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper outlines major use cases, provides a reference architecture, and outlines best practices of hybrid cloud strategy for deploying telecom edge workloads using Red Hat OpenShift on AWS, using AWS Wavelength and Local Zones.",
+        "date": "September 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/telco-edge-workloads-on-red-hat-openshift/telco-edge-workloads-on-red-hat-openshift.pdf?did=wp_card&trk=wp_card#telco-edge-workloads-on-red-had-openshift",
+        "year": 2022,
+        "month": 9
+    },
+    {
+        "name": "Best Practices for Designing Amazon API Gateway…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper introduces best practices for deploying private APIs and private integrations in API Gateway, and discusses security, usability, and architecture. This whitepaper is aimed at developers who use API Gateway, or are considering using it in the future.",
+        "date": "September 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/best-practices-api-gateway-private-apis-integration/best-practices-api-gateway-private-apis-integration.pdf?did=wp_card&trk=wp_card#best-practices-api-gateway-private-apis-integration",
+        "year": 2022,
+        "month": 9
+    },
+    {
+        "name": "AWS Glue Best Practices: Building a Performant…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper shows you some of the consideration and best practices in building high-performance, cost-optimized data pipelines with AWS Glue.",
+        "date": "August 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-glue-best-practices-build-performant-data-pipeline/aws-glue-best-practices-build-performant-data-pipeline.pdf?did=wp_card&trk=wp_card#aws-glue-best-practices-build-performant-data-pipeline",
+        "year": 2022,
+        "month": 8
+    },
+    {
+        "name": "AWS Glue Best Practices: Building an Operationally…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper shows you some of the considerations and best practices for building and efficiently operating your data pipeline with AWS Glue.",
+        "date": "August 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-glue-best-practices-build-efficient-data-pipeline/aws-glue-best-practices-build-efficient-data-pipeline.pdf?did=wp_card&trk=wp_card#aws-glue-best-practices-build-efficient-data-pipeline",
+        "year": 2022,
+        "month": 8
+    },
+    {
+        "name": "AWS Cloud Adoption Framework: Business…",
+        "category": "WHITEPAPER",
+        "description": "AWS CAF groups its guidance in six perspectives. This whitepaper covers the Business perspective, which focuses on ensuring that your cloud investments accelerate your digital transformation ambitions and business outcomes.",
+        "date": "August 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-caf-business-perspective/aws-caf-business-perspective.pdf?did=wp_card&trk=wp_card#aws-caf-business-perspective",
+        "year": 2022,
+        "month": 8
+    },
+    {
+        "name": "AWS Glue Best Practices: Building a Secure and…",
+        "category": "WHITEPAPER",
+        "description": "In this whitepaper, we show you some of the consideration and best practices for security and reliability of data pipelines built with AWS Glue.",
+        "date": "August 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-glue-best-practices-build-secure-data-pipeline/aws-glue-best-practices-build-secure-data-pipeline.pdf?did=wp_card&trk=wp_card#aws-glue-best-practices-build-secure-data-pipeline",
+        "year": 2022,
+        "month": 8
+    },
+    {
+        "name": "AWS Cloud Adoption Framework: Governance…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-caf-governance-perspective/aws-caf-governance-perspective.pdf?did=wp_card&trk=wp_card#aws-caf-governance-perspective",
+        "year": 2022,
+        "month": 8
+    },
+    {
+        "name": "SaaS Architecture Fundamentals",
+        "category": "WHITEPAPER",
+        "description": "This paper is targeted at SaaS builders and architects who are at the beginning of their SaaS journey, as well as more seasoned builders who want to refine their understanding of core SaaS concepts. Some of this information can also be useful to SaaS product owners and strategists who want to get more familiar with the SaaS landscape.",
+        "date": "August 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/saas-architecture-fundamentals/saas-architecture-fundamentals.pdf?did=wp_card&trk=wp_card#saas-architecture-fundamentals",
+        "year": 2022,
+        "month": 8
+    },
+    {
+        "name": "Architectural Patterns to Build End-to-End Data…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper presents some commonly used data-driven applications and proven architectural patterns based on successful customer implementation. This enables customers who are looking to build those data driven applications to accelerate time to solution.",
+        "date": "August 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/build-e2e-data-driven-applications/build-e2e-data-driven-applications.pdf?did=wp_card&trk=wp_card#build-e2e-data-driven-applications",
+        "year": 2022,
+        "month": 8
+    },
+    {
+        "name": "Data Classification",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2022",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/compliance/AWS_Data_Classification.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 8
+    },
+    {
+        "name": "It’s Time to Evolve: End User Windows…",
+        "category": "WHITEPAPER",
+        "description": "This paper outlines approaches to bring efficiency to the management of an end user Windows application portfolio delivered using Amazon Web Services’ End User Computing (AWS EUC) services.",
+        "date": "August 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/its-time-to-evolve-end-user-windows-application-delivery-in-the-2020s/its-time-to-evolve-end-user-windows-application-delivery-in-the-2020s.pdf?did=wp_card&trk=wp_card#abstract-and-introduction",
+        "year": 2022,
+        "month": 8
+    },
+    {
+        "name": "Accenture Enterprise AI – Scaling Machine Learning…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper provides a roadmap to enterprises and teams to help build production-ready machine learning (ML) solutions, and derive business value out of the same.",
+        "date": "July 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/accenture-ai-scaling-ml-and-deep-learning-models/accenture-ai-scaling-ml-and-deep-learning-models.pdf?did=wp_card&trk=wp_card#accenture-ai-scaling-ml-and-deep-learning-models",
+        "year": 2022,
+        "month": 7
+    },
+    {
+        "name": "Building a Scalable and Secure Multi-VPC AWS…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper describes best practices for creating scalable and secure network architectures in a large network using AWS services. It demonstrates solutions for managing growing infrastructure, ensuring scalability, high availability, and security while keeping overhead costs low.",
+        "date": "March 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/building-scalable-secure-multi-vpc-network-infrastructure/building-scalable-secure-multi-vpc-network-infrastructure.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2022,
+        "month": 3
+    },
+    {
+        "name": "Optimizing AWS Database Migration Service…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper is intended for AWS customers who are migrating data from any supported source database to Amazon Redshift data warehouse using AWS DMS.",
+        "date": "July 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/optimizing-dms-with-amazon-redshift/optimizing-dms-with-amazon-redshift.pdf?did=wp_card&trk=wp_card#optimizing-dms-with-amazon-redshift",
+        "year": 2022,
+        "month": 7
+    },
+    {
+        "name": "Serverless Applications Lens – AWS…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/serverless-applications-lens/wellarchitected-serverless-applications-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 7
+    },
+    {
+        "name": "Operational Readiness Reviews (ORR)",
+        "category": "WHITEPAPER",
+        "description": "Describes how the AWS Operational Readiness Review (ORR) was created and guides you in creating your own ORR program as part of the AWS Well-Architected Framework.",
+        "date": "June 2022",
+        "pdf_link": "https://docs.aws.amazon.com/wellarchitected/latest/operational-readiness-reviews/operational-readiness-reviews.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 6
+    },
+    {
+        "name": "Planning your AI-Powered Business Journey with…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper walks you through the thought process and frameworks Accenture adopts in building a secure, resilient, and scalable data and ML foundation to support your artificial intelligence (AI)-powered business journey on AWS.",
+        "date": "June 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/planning-ai-business-journey-with-accenture-on-aws/planning-ai-business-journey-with-accenture-on-aws.pdf?did=wp_card&trk=wp_card#planning-ai-business-journey-with-accenture-on-aws",
+        "year": 2022,
+        "month": 6
+    },
+    {
+        "name": "AWS Cloud Data Ingestion Patterns and Practices",
+        "category": "WHITEPAPER",
+        "description": "This paper outlines the patterns, practices, and tools used by AWS customers when ingesting data into AWS Cloud using AWS services.",
+        "date": "June 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-cloud-data-ingestion-patterns-practices/aws-cloud-data-ingestion-patterns-practices.pdf?did=wp_card&trk=wp_card#aws-cloud-data-ingestion-patterns-practices",
+        "year": 2022,
+        "month": 6
+    },
+    {
+        "name": "Build Modern Data Streaming Analytics…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper helps cloud architects, data scientists, and developers to design and building modern data streaming architectures that can quickly generate insights using AWS streaming services such Amazon Kinesis Data Streams, Amazon Kinesis Data Firehose, Amazon Kinesis Data Analytics, and Amazon Managed Streaming for Apache Kafka (Amazon MSK).",
+        "date": "May 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/build-modern-data-streaming-analytics-architectures/build-modern-data-streaming-analytics-architectures.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 5
+    },
+    {
+        "name": "Best Practices for Building a Data Lake on AWS for…",
+        "category": "WHITEPAPER",
+        "description": "Many customers run their Digital Games on AWS. Each of them has made unique design choices that allow them to run the fastest, most complex, and visually breathtaking games on AWS. This whitepaper outlines best practices for building a data lake for games on the AWS Cloud, and offers a reference architecture to guide organizations in the delivery of these complex systems.",
+        "date": "May 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/best-practices-building-data-lake-for-games/best-practices-building-data-lake-for-games.pdf?did=wp_card&trk=wp_card#best-practices-building-data-lake-for-games",
+        "year": 2022,
+        "month": 5
+    },
+    {
+        "name": "Guavus 5G-IQ NWDAF on AWS",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper introduces the concept of Network Data Analytics Function (NWDAF), covers the benefits of deploying NWDAF on AWS, and explains how the Guavus NWDAF solution is architected on AWS.",
+        "date": "May 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/guavus-5G-iq-nwdaf-on-aws/guavus-5G-iq-nwdaf-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 5
+    },
+    {
+        "name": "Real-Time Communication on AWS",
+        "category": "WHITEPAPER",
+        "description": "Best practices for designing highly available and scalable real-time communication (RTC) workloads on AWS.",
+        "date": "May 2022",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/Industries/Telco/real-time_communication_aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 5
+    },
+    {
+        "name": "Amazon Aurora MySQL Migration Handbook",
+        "category": "WHITEPAPER",
+        "description": "Provides best practices for planning, implementing, and troubleshooting database migrations from MySQL-compatible and non-MySQL-compatible database products to Amazon Aurora.",
+        "date": "April 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/amazon-aurora-mysql-migration-handbook/amazon-aurora-mysql-migration-handbook.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 4
+    },
+    {
+        "name": "Navigating GDPR Compliance on AWS",
+        "category": "WHITEPAPER",
+        "description": "This document provides information about services and resources that Amazon Web Services (AWS) offers customers to help them align with the requirements of the General Data Protection Regulation (GDPR) that might apply to their activities. These include adherence to IT security standards, the AWS Cloud Computing Compliance Controls Catalog (C5) attestation, adherence to the Cloud Infrastructure Services Providers in Europe (CISPE) Code of Conduct, data access controls, monitoring and logging tools, encryption, and key management.",
+        "date": "November 2023",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/navigating-gdpr-compliance/navigating-gdpr-compliance.pdf?did=wp_card&trk=wp_card",
+        "year": 2023,
+        "month": 11
+    },
+    {
+        "name": "Computational Fluid Dynamics on AWS",
+        "category": "WHITEPAPER",
+        "description": "Best practices for running computational fluid dynamics (CFD) workloads on AWS.",
+        "date": "March 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/computational-fluid-dynamics-on-aws/computational-fluid-dynamics-on-aws.pdf?did=wp_card&trk=wp_card#computational-fluid-dynamics-on-aws",
+        "year": 2022,
+        "month": 3
+    },
+    {
+        "name": "IPv6 on AWS: Best Practices for Adopting and…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper focuses on best practices for adopting and designing IPv6-based networks on the AWS Cloud. It covers IPv6 dual-stack networks for both internet-facing and private IPv6 networks use cases.",
+        "date": "March 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/ipv6-on-aws/ipv6-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 3
+    },
+    {
+        "name": "Architecting for HIPAA Security and Compliance…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper focuses on how Amazon Elastic Kubernetes Service (Amazon EKS) features can be used to run Kubernetes applications containing Protected Health Information (PHI).",
+        "date": "March 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/architecting-hipaa-security-and-compliance-on-amazon-eks/architecting-hipaa-security-and-compliance-on-amazon-eks.pdf?did=wp_card&trk=wp_card#document-revisions",
+        "year": 2022,
+        "month": 3
+    },
+    {
+        "name": "Best Practices to Prepare your Amazon…",
+        "category": "WHITEPAPER",
+        "description": "Best practices for the image preparation of Amazon WorkSpaces for Linux.",
+        "date": "March 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/workspaces-linux-best-practices/workspaces-linux-best-practices.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2022,
+        "month": 3
+    },
+    {
+        "name": "Patterns for Ingesting SaaS Data into AWS Data Lakes",
+        "category": "WHITEPAPER",
+        "description": "This paper outlines different patterns using Amazon Web Services (AWS) services to ingest SaaS data into a data lake on AWS.",
+        "date": "March 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/patterns-for-ingesting-saas-data-into-aws-data-lakes/patterns-for-ingesting-saas-data-into-aws-data-lakes.pdf?did=wp_card&trk=wp_card#patterns-for-ingesting-saas-data-into-aws-data-lakes",
+        "year": 2022,
+        "month": 3
+    },
+    {
+        "name": "Advanced Multi-AZ Resilience Patterns",
+        "category": "WHITEPAPER",
+        "description": "This paper provides guidance on how to instrument workloads to detect impact from gray failures that are isolated to a single Availability Zone, and then take action to mitigate that impact in the Availability Zone.",
+        "date": "March 2022",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/advanced-multi-az-resilience-patterns/advanced-multi-az-resilience-patterns.pdf",
+        "year": 2022,
+        "month": 3
+    },
+    {
+        "name": "Best Practices for Migrating from RDBMS to Amazon…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper highlights the best practices for migrating these workloads from an RDBMS to DynamoDB. It also discusses how NoSQL databases like DynamoDB differ from a traditional RDBMS, and proposes a framework for analysis, data modeling, and migration of data from an RDBMS into DynamoDB.",
+        "date": "March 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/best-practices-for-migrating-from-rdbms-to-dynamodb/best-practices-for-migrating-from-rdbms-to-dynamodb.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2022,
+        "month": 3
+    },
+    {
+        "name": "Disaster Recovery of Workloads on AWS:…",
+        "category": "WHITEPAPER",
+        "description": "This paper outlines the best practices for planning and testing disaster recovery for any workload deployed to AWS, and offers different approaches to mitigate risks, improve resilience, and meet the Recovery Time Objective (RTO) and Recovery Point Objective (RPO) for that workload.",
+        "date": "February 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 2
+    },
+    {
+        "name": "Modern Data Architecture Rationales on AWS",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper lays out the traditional analytics approaches and their challenges. It then explains why a modern data architecture is required, and how it helps solve the challenges presented by traditional analytics. This paper also provides context around how AWS Cloud analytics services provide a foundation for building this modern data architecture platform.",
+        "date": "February 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/modern-data-architecture-rationales-on-aws/modern-data-architecture-rationales-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 2
+    },
+    {
+        "name": "Design AWS Relational Databases to Meet FFIEC…",
+        "category": "WHITEPAPER",
+        "description": "In the United States, financial institutions (FIs) are permitted to use third-party cloud providers so long as they comply with applicable regulatory requirements. This technical guide enumerates the design principles, instructions to configure the Amazon Web Services (AWS) Relational Database Service for this use case.",
+        "date": "February 2022",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/design-aws-relational-databases-for-FFIEC-requirements.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 2
+    },
+    {
+        "name": "Strategies for Migrating Oracle Databases to AWS",
+        "category": "WHITEPAPER",
+        "description": "Guidance on preferred methods for migrating Oracle databases to AWS.",
+        "date": "January 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/strategies-migrating-oracle-db-to-aws/strategies-migrating-oracle-db-to-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 1
+    },
+    {
+        "name": "Best Practices for Deploying Amazon…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper outlines a set of best practices for the deployment of Amazon AppStream 2.0.",
+        "date": "January 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/best-practices-for-deploying-amazon-appstream-2/best-practices-for-deploying-amazon-appstream-2.pdf?did=wp_card&trk=wp_card#best-practices-for-deploying-amazon-appstream-2",
+        "year": 2022,
+        "month": 1
+    },
+    {
+        "name": "Guidelines for Implementing AWS WAF",
+        "category": "TECHNICAL GUIDE",
+        "description": "Current recommendations for implementing AWS Web Application Firewall (AWS WAF) to protect existing and new web applications.",
+        "date": "January 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/guidelines-for-implementing-aws-waf/guidelines-for-implementing-aws-waf.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 1
+    },
+    {
+        "name": "Secure Content Delivery with Amazon CloudFront",
+        "category": "WHITEPAPER",
+        "description": "How Amazon CloudFront improves the security and performance of APIs and applications, and reduces content delivery costs.",
+        "date": "January 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/secure-content-delivery-amazon-cloudfront/secure-content-delivery-amazon-cloudfront.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 1
+    },
+    {
+        "name": "AWS Graviton2 for Independent Software…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper provides a roadmap to help Independent Software Vendors (ISVs) evaluate the suitability of AWS Graviton 2 to their workload and a checklist to help build a project plan for adoption for the most common ISV use cases.",
+        "date": "January 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-graviton2-for-isv/aws-graviton2-for-isv.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 1
+    },
+    {
+        "name": "Replatform .NET Applications with…",
+        "category": "WHITEPAPER",
+        "description": "This guide outlines a methodology to assess applications that are suitable to move to Windows containers, describes the business and technical benefits, and offers a prescriptive procedure to guide organizations in the delivery of this process.",
+        "date": "January 2022",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/replatform-dotnet-apps-with-windows-containers/replatform-dotnet-apps-with-windows-containers.pdf?did=wp_card&trk=wp_card",
+        "year": 2022,
+        "month": 1
+    },
+    {
+        "name": "Securing Internet of Things (IoT) with AWS",
+        "category": "WHITEPAPER",
+        "description": "Overview of the security-enabling Internet of Things (IoT) services available in the AWS Cloud.",
+        "date": "December 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/securing-iot-with-aws/securing-iot-with-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 12
+    },
+    {
+        "name": "Best Practices for Deploying Amazon…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper outlines a set of best practices for the deployment of Amazon WorkSpaces. The paper covers network considerations, directory services and user authentication, security, and monitoring and logging.",
+        "date": "December 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/best-practices-deploying-amazon-workspaces/best-practices-deploying-amazon-workspaces.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 12
+    },
+    {
+        "name": "Implementing Low-Power Wide-Area Network…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/implementing-lpwan-solutions-with-aws/implementing-lpwan-solutions-with-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 12
+    },
+    {
+        "name": "Industrial IoT Architecture Patterns",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/industrial-iot-architecture-patterns/industrial-iot-architecture-patterns.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 12
+    },
+    {
+        "name": "Designing MQTT Topics for AWS IoT Core",
+        "category": "WHITEPAPER",
+        "description": "Best practices for designing MQTT topics in AWS IoT Core and leveraging AWS IoT Core features with MQTT.",
+        "date": "December 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/designing-mqtt-topics-aws-iot-core/designing-mqtt-topics-aws-iot-core.pdf?did=wp_card&trk=wp_card#designing-mqtt-topics-aws-iot-core",
+        "year": 2021,
+        "month": 12
+    },
+    {
+        "name": "Optimizing MySQL Running on Amazon EC2 Using…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/optimizing-mysql-on-ec2-using-amazon-ebs/optimizing-mysql-on-ec2-using-amazon-ebs.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 12
+    },
+    {
+        "name": "Change Management in the Cloud",
+        "category": "WHITEPAPER",
+        "description": "Discusses change management, the Cloud Adoption Framework, and the Well-Architected Framework in the context of applying governance to deploying changes to your AWS environment.",
+        "date": "December 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/change-management-in-the-cloud/change-management-in-the-cloud.pdf?did=wp_card&trk=wp_card#change-management-in-the-cloud",
+        "year": 2021,
+        "month": 12
+    },
+    {
+        "name": "Enterprise Data Governance Catalog",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/enterprise-data-governance-catalog/enterprise-data-governance-catalog.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 12
+    },
+    {
+        "name": "Machine Learning Best Practices in Healthcare…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/ml-best-practices-healthcare-life-sciences/ml-best-practices-healthcare-life-sciences.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Management and Governance Cloud…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/management-and-governance-guide/management-and-governance-cloud-environment-guide.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Hybrid Networking Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/hybrid-networking-lens/hybrid-networking-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Amdocs Digital Brand Experience Platform in…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/amdocs-digital-brand-experience-platform/amdocs-digital-brand-experience-platform.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Games Industry Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/games-industry-lens/games-industry-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Continuous Integration and Continuous Delivery for…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper introduces continuous integration and continuous delivery (CI/CD) for 5G networks, and how Amazon Web Services (AWS) tools and services can be used to fully automate the deployment and upgrades of 5G network functions.",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/cicd_for_5g_networks_on_aws/cicd_for_5g_networks_on_aws.pdf?did=wp_card&trk=wp_card#cicd_for_5g_networks_on_aws",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Best Practices for Running Oracle Database on AWS",
+        "category": "WHITEPAPER",
+        "description": "Guidance and best practices for running Oracle databases on AWS.",
+        "date": "November 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/best-practices-for-running-oracle-database-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Determining the IOPS Needs for Oracle…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/determining-iops-needs-oracle-db-on-aws/determining-iops-needs-oracle-db-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "An Overview of the AWS Cloud Adoption Framework",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF | Kindle",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/overview-aws-cloud-adoption-framework.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Storage Best Practices for Data and Analytics…",
+        "category": "WHITEPAPER",
+        "description": "Amazon S3 and Amazon S3 Glacier provide ideal storage solutions for data lakes. This guide explains each of these options and provides best practices for building, securing, managing, and scaling a data lake built on Amazon S3.",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lakes.pdf?did=wp_card&trk=wp_card#building-data-lake-aws",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Availability and Beyond - Understanding and…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/availability-and-beyond-improving-resilience/availability-and-beyond-improving-resilience.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Tableau Desktop on Amazon AppStream 2.0",
+        "category": "TECHNICAL GUIDE",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/tableau-desktop-on-amazon-appstream2.0/tableau-desktop-on-amazon-appstream2.0.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Migration and Modernization Strategy…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/migration-modernization-strategy-for-ies/migration-modernization-strategy-for-ies.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Netcracker Active Resource Inventory on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/netcracker-active-resource-inventory-on-aws/netcracker-active-resource-inventory-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Using Microsoft Power BI with the AWS Cloud",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper discusses how to integrate and use Microsoft Power BI (Desktop, Report Server, Service, and On-premises data gateway) with the AWS Cloud. It presents options for customers looking to connect Microsoft Power BI products to AWS services, with a focus on connectivity, security, performance, and cost optimization.",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/en_us/whitepapers/latest/using-power-bi-with-aws-cloud/using-power-bi-with-aws-cloud.pdf?did=wp_card&trk=wp_card#using-power-bi-with-aws-cloud",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "Reactive Systems on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/reactive-systems-on-aws/reactive-systems-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 11
+    },
+    {
+        "name": "SAP Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/sap-lens/sap-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 10
+    },
+    {
+        "name": "Guidance for NHS Trusts Adopting AWS Cloud…",
+        "category": "WHITEPAPER",
+        "description": "Introductory guide about the opportunities and key considerations for NHS Trusts preparing for migration to AWS.",
+        "date": "October 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/guidance-for-nhs-trusts-adopting-aws/guidance-for-nhs-trusts-adopting-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 10
+    },
+    {
+        "name": "Enabling High Availability with Data Guard on…",
+        "category": "TECHNICAL GUIDE",
+        "description": "This guide explains how to enable high availability (HA) with Oracle Data Guard software on your Amazon Relational Database Service (Amazon RDS) Custom for Oracle database (DB) instances.",
+        "date": "October 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/enabling-high-availability-with-data-guard-on-amazon-rds-custom-for-oracle.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 10
+    },
+    {
+        "name": "Amazon Aurora MySQL Database Administrator's…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/amazon-aurora-mysql-db-admin-handbook/amazon-aurora-mysql-db-admin-handbook.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 10
+    },
+    {
+        "name": "AWS Serverless Multi-Tier Architectures with…",
+        "category": "WHITEPAPER",
+        "description": "Illustrates how innovations from Amazon Web Services (AWS) can be used to change the way you design multi-tier architectures and implement popular patterns such as microservices, mobile backends, and single-page applications.",
+        "date": "October 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 10
+    },
+    {
+        "name": "Running Adobe Creative Cloud on Amazon…",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "October 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/running-adobe-creative-cloud-on-amazon-appstream.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 10
+    },
+    {
+        "name": "WordPress: Best Practices on AWS",
+        "category": "WHITEPAPER",
+        "description": "Guidance for system administrators running WordPress on AWS.",
+        "date": "October 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 10
+    },
+    {
+        "name": "AWS Systems Manager Operational Capabilities",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-systems-manager-operational-capabilities/aws-systems-manager-operational-capabilities.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 10
+    },
+    {
+        "name": "Blue/Green Deployments on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Machine Learning Best Practices for Public…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper outlines some of the challenges for US public sector agencies in adopting and executing ML, and provides best practices to address these challenges.",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/ml-best-practices-public-sector-organizations/ml-best-practices-public-sector-organizations.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Using AWS in the Context of NHS Cloud Security…",
+        "category": "WHITEPAPER",
+        "description": "Provides organizational advice for using AWS to align with UK National Health Service (NHS) cloud security guidance.",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/nhs-cloud-security-guidance-using-aws/nhs-cloud-security-guidance-using-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Amazon MSK Migration Guide",
+        "category": "TECHNICAL GUIDE",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/amazon-msk-migration-guide/amazon-msk-migration-guide.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Streaming Media Lens – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/streaming-media-lens/wellarchitected-streaming-media-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Security at the Edge: Core Principles",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/security-at-the-edge/security-at-the-edge.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Next-Generation OSS with AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/next-generation-oss/next-generation-oss.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Model Based Systems Engineering (MBSE) on…",
+        "category": "WHITEPAPER",
+        "description": "Model Based Systems Engineering (MBSE) is a modern approach to the conventional practice of document-based systems engineering. MBSE benefits from modern cloud computing technologies, microservices, AI/ML,advanced analytics and others.",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/model-based-systems-engineering/model-based-systems-engineering.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Setting Up Multiuser Environments (for…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/setting-up-multi-user-environments/setting-up-multi-user-environments.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "AWS Graviton Performance Testing: Tips for…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-graviton-performance-testing/aws-graviton-performance-testing.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Optimizing Enterprise Economics with…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/optimizing-enterprise-economics-with-serverless/optimizing-enterprise-economics-with-serverless.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Model Explainability with AWS Artificial…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/model-explainability-aws-ai-ml/model-explainability-aws-ai-ml.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Time Series Forecasting Principles with Amazon…",
+        "category": "TECHNICAL GUIDE",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/time-series-forecasting-principles-with-amazon-forecast/time-series-forecasting-principles-with-amazon-forecast.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Ransomware Risk Management on AWS…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/ransomware-risk-management-on-aws-using-nist-csf/ransomware-risk-management-on-aws-using-nist-csf.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Overview of Cerner HealtheDataLab on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/cerner-healthedatalab-overview/cerner-healthedatalab-overview.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Streaming Data Solutions on AWS",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper discusses the evolution of analytics from batch to real-time. It describes how services such as Amazon Kinesis Data Streams, Amazon Kinesis Data Firehose, Amazon EMR, Amazon Kinesis Data Analytics, and Amazon MSK can be used to implement real-time applications.",
+        "date": "September 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/streaming-data-solutions-amazon-kinesis/streaming-data-solutions-amazon-kinesis.pdf",
+        "year": 2021,
+        "month": 9
+    },
+    {
+        "name": "Public Sector Cloud Transformation",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper outlines how the Amazon Web Services (AWS) Cloud enables governments and public sector organizations to move away from their reliance on traditional on-site data centers, so they can offer innovative opportunities to better serve citizens, improve security, and cut costs.",
+        "date": "August 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/public-sector-cloud-transformation.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 8
+    },
+    {
+        "name": "Financial Services Grid Computing on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/financial-services-grid-computing/financial-services-grid-computing.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 8
+    },
+    {
+        "name": "Web Application Hosting in the AWS Cloud",
+        "category": "WHITEPAPER",
+        "description": "Create available and scalable web hosting solutions using AWS services.",
+        "date": "August 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/web-application-hosting-best-practices/web-application-hosting-best-practices.pdf",
+        "year": 2021,
+        "month": 8
+    },
+    {
+        "name": "Healthcare Digital Signage Using Amazon Kindle",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/healthcare-digital-signage-using-amazon-kindle/healthcare-digital-signage-using-amazon-kindle.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 8
+    },
+    {
+        "name": "AWS Outposts High Availability Design and…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-outposts-high-availability-design/aws-outposts-high-availability-design.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 8
+    },
+    {
+        "name": "Monitoring River Levels Using LoRaWAN",
+        "category": "TECHNICAL GUIDE",
+        "description": "HTML | PDF",
+        "date": "August 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/monitoring-river-levels-using-lorawan/monitoring-river-levels-using-lorawan.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 8
+    },
+    {
+        "name": "Hybrid Machine Learning",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/hybrid-machine-learning/hybrid-machine-learning.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 8
+    },
+    {
+        "name": "Modernize.NET Applications with Linux…",
+        "category": "TECHNICAL GUIDE",
+        "description": "This guide outlines a methodology to assess applications that are suitable to move to Linux containers. It describes the business and technical benefits of this approach, and offers a prescriptive procedure using a sample application and reference architecture to guide organizations in the delivery of this process.",
+        "date": "August 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/modernize-dotnet-apps-with-linux-containers.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 8
+    },
+    {
+        "name": "Running Oracle Hypervisors on Amazon EC2 Bare Metal",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/running-oracle-hypervisors-ec2-bare-metal/running-oracle-hypervisors-ec2-bare-metal.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 8
+    },
+    {
+        "name": "Security Overview of Amazon CodeGuru…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/security-overview-of-amazon-codeguru-reviewer/security-overview-of-amazon-codeguru-reviewer.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 8
+    },
+    {
+        "name": "Migrating Your Databases to Amazon Aurora",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/migrating-databases-to-amazon-aurora/migrating-databases-to-amazon-aurora.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 7
+    },
+    {
+        "name": "Best Practices for Deploying Microsoft SQL…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/best-practices-for-deploying-microsoft-sql-server/best-practices-for-deploying-microsoft-sql-server.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 7
+    },
+    {
+        "name": "Big Data Analytics Options on AWS",
+        "category": "WHITEPAPER",
+        "description": "Overview of big data options for architects, data scientists, and developers.",
+        "date": "July 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/big-data-analytics-options/big-data-analytics-options.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2021,
+        "month": 7
+    },
+    {
+        "name": "Choosing the Operating System for Oracle…",
+        "category": "WHITEPAPER",
+        "description": "How to choose an operating system for Oracle solutions on AWS.",
+        "date": "July 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/choosing-os-for-oracle-workloads-on-ec2.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 7
+    },
+    {
+        "name": "Transporting People and Freight More Efficiently…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper explains the benefits of creating new transportation information systems or refactoring such existing systems to make use of cloud-native architectures.",
+        "date": "July 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/transporting-people-and-freight-more-efficiently-with-cloud-based-technologies.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 7
+    },
+    {
+        "name": "Cloud Enablement Engine: A Practical Guide",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "July 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/cloud-enablement-engine-practical-guide.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 7
+    },
+    {
+        "name": "An Overview of AWS Cloud Data Migration Services",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-data-migration-services/overview-aws-cloud-data-migration-services.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 7
+    },
+    {
+        "name": "CareAware iBus Bedside Medical Device…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper outlines how CareAware iBus® for Bedside Medical Device Integration (BMDI) and CareAware VitalsLink can improve the accuracy and timeliness of clinical documentation through integration of medical devices with the electronic health record (EHR).",
+        "date": "June 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/careaware-bdmi-vitalslink-aws-overview.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Development and Test on Amazon Web Services",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/development-and-test-on-aws/development-and-test-on-aws.pdf?did=wp_card&trk=wp_card#development-and-test-on-aws",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Getting Started with Amazon DocumentDB…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/get-started-documentdb/get-started-documentdb.pdf?did=wp_card&trk=wp_card#get-started-documentdb",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Load, Store, and Protect Linux-Based NFS…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/load-store-protect-linux-nfs/load-store-protect-linux-nfs.pdf?did=wp_card&trk=wp_card#load-store-protect-linux",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Unpicking Vendor Lock-in",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/unpicking-vendor-lock-in/unpicking-vendor-lock-in.pdf?did=wp_card&trk=wp_card#unpicking-vendor-lock-in",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Digital Transformation and IT Modernization for…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/digital-transformation-it-modernization-elections/digital-transformation-it-modernization-elections.pdf?did=wp_card&trk=wp_card#digital-transformation-it-modernization-elections",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Cloud Automation for 5G Network",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/cloud-automation-5g-network/cloud-automation-5g-network.pdf?did=wp_card&trk=wp_card#cloud-automation-5g-network",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Streamline Amazon WorkSpaces…",
+        "category": "TECHNICAL GUIDE",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/streamline-workspaces-with-intune/streamline-workspaces-with-intune.pdf?did=wp_card&trk=wp_card#streamline-workspaces-with-intune",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "AWS Hybrid DNS with Active Directory",
+        "category": "TECHNICAL GUIDE",
+        "description": "This whitepaper highlights hybrid DNS resolution, including Microsoft Active Directory Domain Services (AD DS), using DNS name resolution services to it make possible for services inside and outside of AWS to resolve namespaces.",
+        "date": "June 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/aws-hybrid-dns-with-active-directory.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Security Practices for Multi-Tenant SaaS Applications…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/security-practices-multi-tenant-saas-applications-eks/security-practices-multi-tenant-saas-applications-eks.pdf?did=wp_card&trk=wp_card#security-practices-multi-tenant-saas-applications-eks",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Digital Strategies for Vaccine Distribution and…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/covid-19-vaccine-digital-communication/covid-19-vaccine-digital-communication.pdf?did=wp_card&trk=wp_card#covid-19-vaccine-digital-communication",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Securely Access Services Over AWS PrivateLink",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/aws-privatelink/aws-privatelink.pdf?did=wp_card&trk=wp_card#aws-privatelink",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "Derive Insights from Modern Data",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/derive-insights-from-aws-modern-data/derive-insights-from-aws-modern-data.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 6
+    },
+    {
+        "name": "IoT Lens Checklist – AWS Well-Architected",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "May 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/iot-lens-checklist/wellarchitected-iot-lens-checklist.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 5
+    },
+    {
+        "name": "SDDC Deployment and Best Practices Guide on AWS",
+        "category": "TECHNICAL GUIDE",
+        "description": "HTML | PDF",
+        "date": "May 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/sddc-deployment-and-best-practices/sddc-deployment-and-best-practices.pdf?did=wp_card&trk=wp_card#sddc-deployment-and-best-practices",
+        "year": 2021,
+        "month": 5
+    },
+    {
+        "name": "Hosting Static Websites on AWS: Prescriptive Guidance",
+        "category": "WHITEPAPER",
+        "description": "Architectural guidance for developing, deploying, and managing static websites on AWS.",
+        "date": "May 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/build-static-websites-aws/build-static-websites-aws.pdf?did=wp_card&trk=wp_card#build-static-websites-aws",
+        "year": 2021,
+        "month": 5
+    },
+    {
+        "name": "Amazon Connect Data Lake Best Practices",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper outlines the best practices for architecting a contact center data lake with Amazon Connect.",
+        "date": "May 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/amazon-connect-data-lake-best-practices/amazon-connect-data-lake-best-practices.pdf",
+        "year": 2021,
+        "month": 5
+    },
+    {
+        "name": "Migrating to Apache HBase on Amazon S3 on…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "May 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/migrate-apache-hbase-s3/migrate-apache-hbase-s3.pdf?did=wp_card&trk=wp_card#migrate-apache-hbase-s3",
+        "year": 2021,
+        "month": 5
+    },
+    {
+        "name": "Security Best Practices for Manufacturing OT",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper describes security best practices to design, deploy, and architect these on-premises hybrid manufacturing workloads for the AWS Cloud.",
+        "date": "May 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/security-bp-for-manufacturing-ot.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 5
+    },
+    {
+        "name": "Build a Secure Enterprise Machine Learning…",
+        "category": "TECHNICAL GUIDE",
+        "description": "This whitepaper helps cloud engineers, security engineers, Machine Learning Ops (MLOps) engineers, and data scientists understand the various components of building a secure enterprise machine learning (ML) platform. It provides prescriptive guidance on building a secure ML platform on Amazon Web Services (AWS).",
+        "date": "May 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/build-secure-enterprise-ml-platform.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 5
+    },
+    {
+        "name": "Cloud-Driven Enterprise Transformation on AWS",
+        "category": "WHITEPAPER",
+        "description": "Enterprise customers often request advice and learnings from Amazon Web Services (AWS) on how to accelerate the velocity of their cloud transformation. This document describes an integrated approach to achieve speed and accelerate time to value while maintaining control and corporate guardrails.",
+        "date": "May 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/cloud-driven-enterprise-transformation-on-aws/cloud-driven-enterprise-transformation-on-aws.pdf",
+        "year": 2021,
+        "month": 5
+    },
+    {
+        "name": "SaaS Storage Strategies: Building a multitenant…",
+        "category": "WHITEPAPER",
+        "description": "Strategies for partitioning multitenant environments.",
+        "date": "May 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/multi-tenant-saas-storage-strategies/multi-tenant-saas-storage-strategies.pdf?did=wp_card&trk=wp_card#multi-tenant-saas-storage-strategies",
+        "year": 2021,
+        "month": 5
+    },
+    {
+        "name": "Security in Amazon CodeGuru Profiler",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "May 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/security-in-codeguru-profiler/security-in-codeguru-profiler.pdf?did=wp_card&trk=wp_card#security-in-codeguru-profiler",
+        "year": 2021,
+        "month": 5
+    },
+    {
+        "name": "Using Altair Breeze for EDA Workload Migration to AWS",
+        "category": "WHITEPAPER",
+        "description": "Outlines the best practices for migrating Electronic Design Automation (EDA) workloads to AWS using the I/O profiling and dependency analysis tool suite Breeze from Altair.",
+        "date": "April 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/using-ellexus-breeze-eda-workload-migration/using-ellexus-breeze-eda-workload-migration.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 4
+    },
+    {
+        "name": "Moderating Image Content in Slack with Amazon…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/moderating-image-content-in-slack.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 4
+    },
+    {
+        "name": "AWS Serverless Data Analytics Pipeline",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "April 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/aws-serverless-data-analytics-pipeline.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 4
+    },
+    {
+        "name": "Laying the Foundation: Setting Up Your…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/cost-optimization-laying-the-foundation.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 4
+    },
+    {
+        "name": "Amazon Web Services' Approach to Operational…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/compliance/AWS_Operational_Resilience.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 4
+    },
+    {
+        "name": "Ten Considerations for a Cloud Procurement",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "April 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/10-considerations-for-a-cloud-procurement.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 4
+    },
+    {
+        "name": "Classic Intrusion Analysis Frameworks for AWS…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/classic-intrusion-analysis-frameworks-for-aws-environments/classic-intrusion-analysis-frameworks-for-aws-environments.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Performance at Scale with Amazon ElastiCache",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/scale-performance-elasticache/scale-performance-elasticache.pdf?did=wp_card&trk=wp_card#scale-performance-elasticache",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Building Media & Entertainment Predictive…",
+        "category": "WHITEPAPER",
+        "description": "Learn how a predictive analytics workload fits into the overall Media & Entertainment workflows in the cloud.",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/Analytics/ME%20Advanced%20Analytics%20on%20AWS.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Overview of the Samsung Push to Talk (PTT)…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/samsung-ptt-aws/samsung-ptt-aws.pdf?did=wp_card&trk=wp_card#samsung-ptt-aws",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Amazon EC2 Reserved Instances and Other…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/cost-optimization-reservation-models.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Security of AWS CloudHSM Backups",
+        "category": "WHITEPAPER",
+        "description": "An in-depth look at the security mechanisms for the backup and restore functionality of AWS CloudHSM.",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/Security/security-of-aws-cloudhsm-backups.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Installing JD Edwards EnterpriseOne on…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/Database/jd-edwards-on-rds-oracle.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Create a Serverless Content Syndication Pipeline with…",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/create-a-serverless-content-syndication-pipeline-with-aws-step-functions.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Migrating Applications Running Relational…",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/Migration/migrating-applications-to-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Modernizing the Amazon Database Infrastructure:…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/modernizing-amazon-database-infrastructure.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Introduction to Scalable Game Development…",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Carrier-Grade Mobile Packet Core Network on…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/carrier-grade-mobile-packet-core-network-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Best Practices Design Patterns: Optimizing…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/AmazonS3BestPractices.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Run Semiconductor Design Workflows on AWS",
+        "category": "TECHNICAL GUIDE",
+        "description": "This implementation guide provides you with information and guidance to run production semiconductor workflows on AWS, from customer specification, to front-end design and verification, back-end fabrication, packaging, and assembly.",
+        "date": "March 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/run-semiconductor-workflows-on-aws/run-semiconductor-design-workflows-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Semiconductor Design on AWS",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper presents an overview of the semiconductor design flow, a migration path for moving design and verification workflows to AWS, and the AWS architectural components needed to optimize semiconductor design workloads on AWS.",
+        "date": "March 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/semiconductor-design-on-aws/semiconductor-design-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Running Adobe Experience Manager on AWS",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/Adobe%20AEM%20on%20AWS.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Best Practices for Deploying ClioSoft SOS…",
+        "category": "WHITEPAPER",
+        "description": "Best practices for deploying the ClioSoft SOS software in the AWS Cloud.",
+        "date": "March 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/best-practices-deploying-cliosoft-sos-on-aws/best-practices-deploying-cliosoft-sos-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Amazon Connect Lex4EC2 Patch Status Check –…",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/connect-lex43c2-patch-status-check.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Amazon Web Services: Risk and Compliance",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper outlines the mechanisms that AWS has implemented to manage risk on the AWS side of the Shared Responsibility Model, and the tools that customers can leverage to gain assurance that these mechanisms are being implemented effectively.",
+        "date": "March 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-risk-and-compliance/aws-risk-and-compliance.pdf",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Modernizing the Amazon Analytics Infrastructure:…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/modernizing-amazon-analytics-infrastructure.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Database Caching Strategies Using Redis",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/database-caching-strategies-using-redis.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Understanding T2 Standard Instance CPU Credits",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/t2-std-cpu-credits.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Migrating Linux and Windows AMIs from…",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "March 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/migrating-linux-and-windows-AMIs-from-global-regions-to-china-regions.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Serverless 3D Data Optimization Pipelines…",
+        "category": "TECHNICAL GUIDE",
+        "description": "HTML | PDF",
+        "date": "March 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/serverless-data-optimization-pipelines-on-aws/serverless-data-optimization-pipelines-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Overview of Amazon EC2 Spot Instances",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-leveraging-ec2-spot-instances/cost-optimization-leveraging-ec2-spot-instances.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 3
+    },
+    {
+        "name": "Developing and Deploying .NET Applications on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "February 2021",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/develop-deploy-dotnet-apps-on-aws/develop-deploy-dotnet-apps-on-aws.pdf?did=wp_card&trk=wp_card#develop-deploy-dotnet-apps-on-aws",
+        "year": 2021,
+        "month": 2
+    },
+    {
+        "name": "Encrypting File Data with Amazon Elastic File System",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "February 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/efs-encrypted-file-systems/efs-encrypted-file-systems.pdf?did=wp_card&trk=wp_card#efs-encrypted-file-systems",
+        "year": 2021,
+        "month": 2
+    },
+    {
+        "name": "Amplify DataStore: Use Cases and Implementation",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "February 2021",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/amplify-datastore-implementation/amplify-datastore-implementation.pdf?did=wp_card&trk=wp_card#welcome",
+        "year": 2021,
+        "month": 2
+    },
+    {
+        "name": "Cross-Domain Solutions on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "February 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/Security/cross-domain-solutions-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 2
+    },
+    {
+        "name": "Data Warehousing on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "January 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/enterprise-data-warehousing-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 1
+    },
+    {
+        "name": "Enabling 5G Network Automation Over AWS…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper highlights the best practices for designing RIFT’s service orchestrator for managing end-to-end 5G networks on AWS. This whitepaper is aimed at members of a network operations team comprised of communications service providers (CSPs).",
+        "date": "January 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/enabling-5g-network-automation-over-aws-with-rift.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 1
+    },
+    {
+        "name": "Patient Hospital Information Access via…",
+        "category": "WHITEPAPER",
+        "description": "In this whitepaper, we describe how to integrate AWS services with existing electronic health record (EHR) architectures based on medical research-based outcomes.",
+        "date": "January 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/patient-hospital-info-via-phone.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 1
+    },
+    {
+        "name": "Telehealth Meets Cloud",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "January 2021",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/telehealth-meets-cloud.pdf?did=wp_card&trk=wp_card",
+        "year": 2021,
+        "month": 1
+    },
+    {
+        "name": "Blockchain for Sustainability",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "December 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/blockchain-for-sustainability.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 12
+    },
+    {
+        "name": "Next-Generation Mobile Private Networks…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2020",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/mobile-private-networks/mobile-private-networks.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 12
+    },
+    {
+        "name": "Right Sizing: Provisioning Instances to Match…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "December 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/cost-optimization-right-sizing.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 12
+    },
+    {
+        "name": "Amazon EMR Migration Guide",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "December 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/amazon_emr_migration_guide.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 12
+    },
+    {
+        "name": "Container Migration Methodology",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "November 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/container-migration-methodology.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 11
+    },
+    {
+        "name": "AWS Log Collection into Splunk Integrated with…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "November 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/log-collection-into-splunk-with-control-tower.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 11
+    },
+    {
+        "name": "Accelerating Innovation in Healthcare",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "November 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/healthcare-innovation.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 11
+    },
+    {
+        "name": "Genomics Data Transfer, Analytics, and Machine…",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper provides essential information and guidance on how to build a Next Generation Sequencing (NGS) platform, from instrument to interpretation, using AWS services. We’ll provide recommendations, reference architectures, and AWS Solutions Implementations for developing the platform.",
+        "date": "November 2020",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/genomics-data-transfer-analytics-and-machine-learning/genomics-data-transfer-analytics-and-machine-learning.pdf",
+        "year": 2020,
+        "month": 11
+    },
+    {
+        "name": "Content Delivery for Games",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "November 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/content-delivery-for-games.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 11
+    },
+    {
+        "name": "Active Directory Domain Services on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2020",
+        "pdf_link": "https://docs.aws.amazon.com/whitepapers/latest/active-directory-domain-services/active-directory-domain-services.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 11
+    },
+    {
+        "name": "AWS User Guide to the Central Bank of Bahrain…",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "November 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/compliance/aws-user-guide-central-bank-of-bahrain.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 11
+    },
+    {
+        "name": "Amazon CloudFront for Media",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper discusses live streaming and video on-demand workflows, as well as streaming techniques, content delivery networks (CDNs), why CDNs are important for media delivery, and best practices for end-to-end system design using Amazon CloudFront and AWS Media Services.",
+        "date": "November 2020",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/amazon-cloudfront-media/amazon-cloudfront-media.pdf",
+        "year": 2020,
+        "month": 11
+    },
+    {
+        "name": "Hybrid Cloud with AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "November 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/hybrid-cloud-with-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 11
+    },
+    {
+        "name": "Using Service Meshes in AWS",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "November 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/using-service-meshes-in-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 11
+    },
+    {
+        "name": "SaaS Journey Framework",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "October 2020",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/saas-journey-framework/saas-journey-framework.pdf?did=wp_card&trk=wp_card#saas-journey-framework",
+        "year": 2020,
+        "month": 10
+    },
+    {
+        "name": "Understanding Your Application Readiness…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "October 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/understanding-application-readiness-when-migrating-to-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 10
+    },
+    {
+        "name": "Couchbase Server 6.6 on AWS Best Practice Guide",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "October 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/aws-nosql-couchbase.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 10
+    },
+    {
+        "name": "Achieve Production Optimization with AWS…",
+        "category": "WHITEPAPER",
+        "description": "This paper provides an introduction of how machine learning can be used to optimize OEE through the identification, prediction, and prevention of unplanned downtime, fewer quality issues, and improved productivity.",
+        "date": "October 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/achieve-production-optimization-with-aws-ml.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 10
+    },
+    {
+        "name": "Benchmarking AWS and HPC Services",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "October 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/benchmarking-aws-and-hpc-services.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 10
+    },
+    {
+        "name": "Clinician Note Generation using Amazon Connect…",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "October 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/clinician-note-generation-using-amazon-connect-and-amazon-transcribe.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 10
+    },
+    {
+        "name": "How Accenture Industrializes Machine…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "October 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/accenture-industrializes-machine-learning-workloads-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 10
+    },
+    {
+        "name": "Cloud Native Data Virtualization on AWS",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "September 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/cloud-native-data-virtualization-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 9
+    },
+    {
+        "name": "Moving to Managed File Systems",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "September 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/moving-to-managed-file-systems.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 9
+    },
+    {
+        "name": "Web-Based Augmented Reality for Retail Previews",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "September 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/web-based-augmented-reality-retail-previews.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 9
+    },
+    {
+        "name": "Architecture Considerations for Migrating Load…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "September 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/architecture-considerations-for-migrating-load-balancers-to-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 9
+    },
+    {
+        "name": "Amazon Honeycode Shared Responsibility Model",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "September 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/amazon-honeycode-shared-responsibility-model.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 9
+    },
+    {
+        "name": "Amazon Redshift: Cost Optimization",
+        "category": "WHITEPAPER",
+        "description": "This whitepaper shares the most common cost optimization methods adopted across our customer base and details a number of best practices you can follow to ensure you’re getting the best value with Amazon Redshift. This document is intended for advanced Amazon Redshift users.",
+        "date": "August 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/amazon-redshift-cost-optimization.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 8
+    },
+    {
+        "name": "SaaS Tenant Isolation Strategies: Isolating…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "August 2020",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/whitepapers/latest/saas-tenant-isolation-strategies/saas-tenant-isolation-strategies.pdf?did=wp_card&trk=wp_card#saas-tenant-isolation-strategies",
+        "year": 2020,
+        "month": 8
+    },
+    {
+        "name": "Data Residency: AWS Policy Perspectives",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "August 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/compliance/Data_Residency_Whitepaper.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 8
+    },
+    {
+        "name": "BearingPoint//Beyond Infonova DBP Digital…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "August 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/bearingpoint-beyond-infonova-dbp-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 8
+    },
+    {
+        "name": "Logical Separation on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "July 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/compliance/AWS_Logical_Separation_Handbook.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 7
+    },
+    {
+        "name": "Teaching Big Data Skills with Amazon EMR",
+        "category": "TECHNICAL GUIDE",
+        "description": "HTML | PDF",
+        "date": "July 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/teaching-big-data-skills-amazon-emr.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 7
+    },
+    {
+        "name": "Machine Learning Best Practices in Financial…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "July 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/machine-learning-in-financial-services-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 7
+    },
+    {
+        "name": "Policy Engine for OSDU Entitlements",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "July 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/policy-engine-for-osdu-entitlements.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 7
+    },
+    {
+        "name": "Best Practices for VPCs and Networking in Amazon…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "July 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/best-practices-vpcs-networking-amazon-workspaces-deployments.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 7
+    },
+    {
+        "name": "5G Network Evolution with AWS",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "July 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/5g-network-evolution-with-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 7
+    },
+    {
+        "name": "Maximizing Microsoft SQL Server Performance…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "July 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/maximizing-microsoft-sql-using-ec2-nvme-instance-store.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 7
+    },
+    {
+        "name": "Augmented AI: The Power of Human and Machine",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "June 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/augmented-ai-the-power-of-human-and-machine.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 6
+    },
+    {
+        "name": "Accreditation Models for Secure Cloud Adoption",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/accreditation-models-for-secure-cloud-adoption.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 6
+    },
+    {
+        "name": "Oracle to PostgreSQL CDC Monitoring with AWS…",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "June 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/oracle-postgres-cdc-monitoring-aws-dms.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 6
+    },
+    {
+        "name": "Financial Services Industry Lens – AWS…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2020",
+        "pdf_link": "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/financial-services-industry-lens/wellarchitected-financial-services-industry-lens.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 6
+    },
+    {
+        "name": "Overview of Deployment Options on AWS",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "June 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 6
+    },
+    {
+        "name": "Getting Started with Julia on Amazon SageMaker",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "May 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/julia-on-sagemaker.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 5
+    },
+    {
+        "name": "JPX arrownew Connection for AWS",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "May 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/jpx-arrownet-connection-implementation-guide.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 5
+    },
+    {
+        "name": "Leveraging Amazon Chime Voice Connector for SIP…",
+        "category": "WHITEPAPER",
+        "description": "PDF",
+        "date": "April 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/leveraging_chime_voice_connector_for_sip_trunking.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 4
+    },
+    {
+        "name": "AWS Snowball Edge Data Migration Guide",
+        "category": "TECHNICAL GUIDE",
+        "description": "PDF",
+        "date": "April 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/snowball-edge-data-migration-guide.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 4
+    },
+    {
+        "name": "Navigating LGPD Compliance on AWS",
+        "category": "WHITEPAPER",
+        "description": "Information about how AWS supports customers for compliance with the Brazilian General Data Protection Law (LGPD).",
+        "date": "March 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/compliance/LGPD_Compliance_on_AWS.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 3
+    },
+    {
+        "name": "Healthcare Data Analytics Framework for the…",
+        "category": "WHITEPAPER",
+        "description": "HTML | PDF",
+        "date": "March 2020",
+        "pdf_link": "https://d1.awsstatic.com/whitepapers/healthcare-data-analytics-framework-opioid-crisis.pdf?did=wp_card&trk=wp_card",
+        "year": 2020,
+        "month": 3
+    }
+]
