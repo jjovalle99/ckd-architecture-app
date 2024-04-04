@@ -3158,9 +3158,9 @@ multidict = ">=4.0"
 
 [extras]
 parse = ["llama-index", "llama-parse"]
-scraping = ["beautifulsoup4", "playwright"]
+scraping = ["playwright"]
 
 [metadata]
 lock-version = "2.0"
 python-versions = "~3.11"
-content-hash = "dfa1187871fa74c57a10ed73198c6fc3e63e04878c37cf8e2c1536e562dcdb4a"
+content-hash = "96cc872e4e4b9418a5615e734101b2c5c09b7ec9cac30cec38d36774c28d1188"
