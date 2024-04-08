@@ -2269,6 +2269,24 @@ full = ["Pillow (>=8.0.0)", "PyCryptodome", "cryptography"]
 image = ["Pillow (>=8.0.0)"]
 
 [[package]]
+name = "pypdf2"
+version = "3.0.1"
+description = "A pure-python PDF library capable of splitting, merging, cropping, and transforming PDF files"
+optional = true
+python-versions = ">=3.6"
+files = [
+    {file = "PyPDF2-3.0.1.tar.gz", hash = "sha256:a74408f69ba6271f71b9352ef4ed03dc53a31aa404d29b5d31f53bfecfee1440"},
+    {file = "pypdf2-3.0.1-py3-none-any.whl", hash = "sha256:d16e4205cfee272fbdc0568b68d82be796540b1537508cef59388f839c191928"},
+]
+
+[package.extras]
+crypto = ["PyCryptodome"]
+dev = ["black", "flit", "pip-tools", "pre-commit (<2.18.0)", "pytest-cov", "wheel"]
+docs = ["myst_parser", "sphinx", "sphinx_rtd_theme"]
+full = ["Pillow", "PyCryptodome"]
+image = ["Pillow"]
+
+[[package]]
 name = "python-dateutil"
 version = "2.9.0.post0"
 description = "Extensions to the standard Python datetime module"
@@ -3173,10 +3191,10 @@ idna = ">=2.0"
 multidict = ">=4.0"
 
 [extras]
-parse = ["llama-index", "llama-parse"]
+parse = ["llama-index", "llama-parse", "pypdf2"]
 scraping = ["playwright"]
 
 [metadata]
 lock-version = "2.0"
 python-versions = "~3.11"
-content-hash = "c05e43a15e9ac0506791d49f95004f65f846ccac756a293b60f416803816f415"
+content-hash = "96440c7a36300ad2d85535d68c9dfd87409a725a002c79bfcbf055e8e09478bb"
